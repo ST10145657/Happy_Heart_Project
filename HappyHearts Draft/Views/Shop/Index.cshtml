@@ -1,0 +1,135 @@
+﻿@{
+    ViewData["Title"] = "Shop";
+
+    var products = new[]
+    {
+        new {
+            Name = "Premium Fish Tank",
+            Price = "R 2,499.99",
+            Category = "Fish",
+            Image = "tank.jpeg",
+            Description = "A spacious glass aquarium suitable for freshwater and tropical fish."
+        },
+
+        new {
+            Name = "Comfort Dog Leash",
+            Price = "R 199.99",
+            Category = "Dog",
+            Image = "Dogleash.jpg",
+            Description = "Strong nylon leash with a padded handle for comfortable daily walks."
+        },
+
+        new {
+            Name = "Luxury Cat Cage",
+            Price = "R 3,999.99",
+            Category = "Cat",
+            Image = "CatCage.webp",
+            Description = "Large indoor cat enclosure with multiple levels and resting platforms."
+        },
+
+        new {
+            Name = "Net",
+            Price = "R 1,499.99",
+            Category = "Fish",
+            Image = "Net.jpeg",
+            Description = "Fish Net to help your little fish friend."
+        },
+
+        new {
+            Name = "Fish StarterKit",
+            Price = "R 899.99",
+            Category = "Fish",
+            Image = "StarterKit.jpeg",
+            Description = "Fish starter pack to get your little fish friend started."
+        },
+
+        new {
+            Name = "Filter ",
+            Price = "R 699.99",
+            Category = "Fish",
+            Image = "filter .jpeg",
+            Description = "High-performance filtration system for crystal-clear aquarium water."
+        }
+    };
+}
+
+<div class="container py-5">
+
+    <div class="text-center mb-5" data-aos="fade-up">
+
+        <h1 class="display-4 fw-bold">
+            Pet Shop
+        </h1>
+
+        <p class="lead text-muted">
+            Everything your pet needs in one place.
+        </p>
+
+    </div>
+
+    <!-- Search -->
+
+    <div class="row justify-content-center mb-5">
+
+        <div class="col-md-7">
+
+            <input class="form-control form-control-lg"
+                   type="text"
+                   placeholder="🔍 Search products..." />
+
+        </div>
+
+    </div>
+
+    @foreach (var item in products)
+    {
+        <div class="product-row mb-4" data-aos="fade-up">
+
+            <div class="row align-items-center">
+
+                <div class="col-lg-3">
+
+                    <img src="~/images/shop/@item.Image"
+                         class="img-fluid rounded"
+                         alt="@item.Name" />
+
+                </div>
+
+                <div class="col-lg-6">
+
+                    <span class="badge bg-primary mb-2">
+                        @item.Category
+                    </span>
+
+                    <h3>@item.Name</h3>
+
+                    <p class="text-muted">
+
+                        @item.Description
+
+                    </p>
+
+                </div>
+
+                <div class="col-lg-3 text-center">
+
+                    <h2 class="text-success fw-bold">
+
+                        @item.Price
+
+                    </h2>
+
+                    <button class="btn btn-primary w-100 mt-3">
+
+                        View Product
+
+                    </button>
+
+                </div>
+
+            </div>
+
+        </div>
+    }
+
+</div>

@@ -1,0 +1,138 @@
+﻿@{
+    ViewData["Title"] = "Species";
+}
+
+<div class="container py-5">
+
+    <div class="text-center mb-5" data-aos="fade-up">
+
+        <h1 class="display-4 fw-bold">
+            Choose Your Companion
+        </h1>
+
+        <p class="lead text-muted">
+            Learn about different pets and discover which companion is right for you.
+        </p>
+
+    </div>
+
+    <div class="row g-4">
+
+        <!-- Dogs -->
+        <div class="col-lg-4 col-md-6">
+            <a asp-controller="Species" asp-action="Dogs" class="species-link">
+
+                <div class="species-tile">
+
+                    <div class="species-icon">🐶</div>
+
+                    <h3>Dogs</h3>
+
+                    <p>
+                        Loyal companions for every family.
+                    </p>
+
+                    <span>
+                        Explore →
+                    </span>
+
+                </div>
+
+            </a>
+        </div>
+
+        <!-- Cats -->
+        <div class="col-lg-4 col-md-6">
+            <a asp-controller="Species" asp-action="Cats" class="species-link">
+
+                <div class="species-tile">
+
+                    <div class="species-icon">🐱</div>
+
+                    <h3>Cats</h3>
+
+                    <p>
+                        Independent and affectionate pets.
+                    </p>
+
+                    <span>
+                        Explore →
+                    </span>
+
+                </div>
+
+            </a>
+        </div>
+
+        <!-- Fish -->
+        <div class="col-lg-4 col-md-6">
+            <a asp-controller="Species" asp-action="Fish" class="species-link">
+
+                <div class="species-tile">
+
+                    <div class="species-icon">🐠</div>
+
+                    <h3>Fish</h3>
+
+                    <p>
+                        Freshwater and saltwater companions.
+                    </p>
+
+                    <span>
+                        Explore →
+                    </span>
+
+                </div>
+
+            </a>
+        </div>
+
+        <!-- Birds -->
+        <div class="col-lg-4 col-md-6">
+            <a asp-controller="Species" asp-action="Birds" class="species-link">
+
+                <div class="species-tile">
+
+                    <div class="species-icon">🐦</div>
+
+                    <h3>Birds</h3>
+
+                    <p>
+                        Intelligent and colourful companions.
+                    </p>
+
+                    <span>
+                        Explore →
+                    </span>
+
+                </div>
+
+            </a>
+        </div>
+
+        <!-- Guinea Pigs -->
+        <div class="col-lg-4 col-md-6">
+            <a asp-controller="Species" asp-action="GuineaPigs" class="species-link">
+
+                <div class="species-tile">
+
+                    <div class="species-icon">🐹</div>
+
+                    <h3>Guinea Pigs</h3>
+
+                    <p>
+                        Gentle pets perfect for small families.
+                    </p>
+
+                    <span>
+                        Explore →
+                    </span>
+
+                </div>
+
+            </a>
+        </div>
+
+    </div>
+
+</div>

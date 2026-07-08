@@ -1,0 +1,162 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<!-- Hero Section -->
+<section class="hero-section d-flex align-items-center text-center">
+
+    <div class="mt-4">
+
+        <a asp-controller="Shop"
+           asp-action="Index"
+           class="btn btn-primary btn-lg me-3">
+
+            Shop For Your Pet🛒
+
+        </a>
+
+        <a asp-controller="Species"
+           asp-action="Index"
+           class="btn btn-outline-light btn-lg">
+
+            Browse Species
+
+        </a>
+
+    </div>
+
+</section>
+<!-- ===========================
+     Featured Pets
+=========================== -->
+
+<section class="container my-5">
+
+    <div class="text-center mb-5">
+
+        <h2 class="fw-bold">
+            Featured Pets
+        </h2>
+
+        <p class="text-muted">
+            Meet some of our wonderful companions looking for a forever home.
+        </p>
+
+    </div>
+
+    <div class="row g-4">
+
+        <!-- Card 1 -->
+
+        <div class="col-lg-4" data-aos="fade-up">
+
+            <div class="card h-100">
+
+                <img src="~/images/pets/Dog.jpg"
+                     class="card-img-top"
+                     alt="Dog">
+
+                <div class="card-body">
+
+                    <h4>Buddy</h4>
+
+                    <p class="text-muted">
+                        Labrador Retriever
+                    </p>
+
+                    <p>📅 2 Years</p>
+
+                    <p>♂ Male</p>
+
+                    <p>❤️ Healthy</p>
+
+                    <a href="#"
+                       class="btn btn-primary w-100">
+
+                        Meet Me 
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- Card 2 -->
+
+        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="150">
+
+            <div class="card h-100">
+
+                <img src="~/images/pets/CAt.jpg"
+                     class="card-img-top"
+                     alt="Cat">
+
+                <div class="card-body">
+
+                    <h4>Luna</h4>
+
+                    <p class="text-muted">
+                        Persian Cat
+                    </p>
+
+                    <p>📅 1 Year</p>
+
+                    <p>♀ Female</p>
+
+                    <p>❤️ Healthy</p>
+
+                    <a href="#"
+                       class="btn btn-primary w-100">
+
+                        Meet Me 
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- Card 3 -->
+
+        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+
+            <div class="card h-100">
+
+                <img src="~/images/pets/Fish.jpg"
+                     class="card-img-top"
+                     alt="Fish">
+
+                <div class="card-body">
+
+                    <h4>Nemo</h4>
+
+                    <p class="text-muted">
+                        Clownfish
+                    </p>
+
+                    <p>🌊 Saltwater</p>
+
+                    <p>📅 1 Year</p>
+
+                    <p>❤️ Healthy</p>
+
+                    <a href="#"
+                       class="btn btn-primary w-100">
+
+                       Meet Me 
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>

@@ -1,0 +1,99 @@
+﻿@{
+    ViewData["Title"] = "Dogs";
+
+    var dogBreeds = new[]
+    {
+        new { Name = "Golden Retriever", Image = "Golden Retriever.jpg", Size = "Large", Lifespan = "10 - 12 Years", Temperament = "Friendly & Loyal" },
+        new { Name = "Labrador Retriever", Image = "Labradoro.jpg", Size = "Large", Lifespan = "10 - 12 Years", Temperament = "Intelligent & Gentle" },
+        new { Name = "German Shepherd", Image = "Dog.jpg", Size = "Large", Lifespan = "9 - 13 Years", Temperament = "Protective & Brave" },
+        new { Name = "Border Collie", Image = "Border.jpg", Size = "Medium", Lifespan = "12 - 15 Years", Temperament = "Energetic & Smart" },
+        //new { Name = "French Bulldog", Image = "frenchbulldog.jpg", Size = "Small", Lifespan = "10 - 12 Years", Temperament = "Playful & Calm" },
+        //new { Name = "Siberian Husky", Image = "husky.jpg", Size = "Large", Lifespan = "12 - 15 Years", Temperament = "Active & Independent" }
+    };
+}
+
+<div class="container py-5">
+
+    <!-- Breadcrumb -->
+   @*  <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+
+            <li class="breadcrumb-item">
+                <a asp-controller="Species" asp-action="Index">Species</a>
+            </li>
+
+            <li class="breadcrumb-item active">
+                Dogs
+            </li>
+        </ol>
+    </nav> *@
+
+    <!-- Heading -->
+    <div class="text-center mb-5">
+
+        <h1 class="fw-bold">
+            Dog Breeds
+        </h1>
+
+        <p class="lead text-muted">
+            Discover different dog breeds and find the perfect companion for your family.
+        </p>
+
+    </div>
+
+    <!-- Search -->
+    <div class="row justify-content-center mb-5">
+
+        <div class="col-md-6">
+
+            <input type="text"
+                   id="breedSearch"
+                   class="form-control form-control-lg"
+                   placeholder="🔍 Search dog breeds..." />
+
+        </div>
+
+    </div>
+
+    <!-- Cards -->
+    <div class="row g-4">
+
+        @foreach (var dog in dogBreeds)
+        {
+            <div class="col-lg-4 col-md-6 breed-card" data-aos="fade-up">
+
+                <div class="card h-100">
+
+                    <img src="~/images/pets/@dog.Image"
+                         class="card-img-top"
+                         alt="@dog.Name" />
+
+                    <div class="card-body">
+
+                        <h4>@dog.Name</h4>
+
+                        <hr />
+
+                        <p><strong> Size:</strong> @dog.Size</p>
+
+                        <p><strong> Lifespan:</strong> @dog.Lifespan</p>
+
+                        <p><strong> Temperament:</strong> @dog.Temperament</p>
+
+                        <button class="btn btn-primary w-100">
+                            View Available Pets
+                        </button>
+
+                    </div>
+
+                </div>
+
+            </div>
+        }
+
+    </div>
+
+</div>
