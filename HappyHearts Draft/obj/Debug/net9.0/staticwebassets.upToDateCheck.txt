@@ -62,7 +62,31 @@ C:\Users\mnqob\OneDrive\Desktop\HappyHearts Draft\HappyHearts Draft\wwwroot\lib\
 C:\Users\mnqob\OneDrive\Desktop\HappyHearts Draft\HappyHearts Draft\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\BackGround\Background1.png
+wwwroot\images\BackGround\BirdsBackGround.jpg
+wwwroot\images\BackGround\CatBackGround.jpg
+wwwroot\images\BackGround\DogBackGround.jpg
+wwwroot\images\BackGround\FishLayoutPic.jpg
+wwwroot\images\birds\African Grey Parrots.jpg
+wwwroot\images\birds\Budgerigars.jpg
+wwwroot\images\birds\Canaries.jpg
+wwwroot\images\birds\Cockatiels.jpg
+wwwroot\images\birds\Indian Ringneck Parakeets.jpg
+wwwroot\images\birds\Lovebirds.jpg
 wwwroot\images\cat.webp
+wwwroot\images\cats\Brown Cat.jpg
+wwwroot\images\cats\Brown White Cat.jpg
+wwwroot\images\cats\CAt.jpg
+wwwroot\images\cats\cat.webp
+wwwroot\images\cats\Cat1.jpg
+wwwroot\images\cats\Cat2.jpg
+wwwroot\images\Fish\Ballon Mollies.jpg
+wwwroot\images\Fish\Black Widow Tetra.jpg
+wwwroot\images\Fish\Cardinal Tetra .jpg
+wwwroot\images\Fish\Ember Tetra.jpg
+wwwroot\images\Fish\Guppies.jpg
+wwwroot\images\Fish\Pink Lemon Tetra.jpg
+wwwroot\images\Fish\Platies.jpg
 wwwroot\images\Logo.jpeg
 wwwroot\images\pets\Border.jpg
 wwwroot\images\pets\Brown Cat.jpg

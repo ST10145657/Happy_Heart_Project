@@ -1,5 +1,184 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    ViewData["Title"] = "Birds";
+
+    var birdList = new[]
+    {
+        new {
+            Name = "African Grey Parrot",
+            Image = "African Grey Parrots.jpg",
+            AdultSize = "33 cm",
+            Weight = "400 - 600 g",
+            Lifespan = "40 - 60 years",
+            Gender = "♂ Male",
+            Temperament = "Highly Intelligent",
+            Origin = "Central Africa",
+            Difficulty = "Advanced",
+            //Price = "R8500"
+        },
+
+        new {
+            Name = "Budgerigar",
+            Image = "Budgerigars.jpg",
+            AdultSize = "18 cm",
+            Weight = "30 - 40 g",
+            Lifespan = "7 - 15 years",
+            Gender = "♀ Female",
+            Temperament = "Friendly",
+            Origin = "Australia",
+            Difficulty = "Beginner",
+            //Price = "R350"
+        },
+
+        new {
+            Name = "Canary",
+            Image = "Canaries.jpg",
+            AdultSize = "13 cm",
+            Weight = "15 - 20 g",
+            Lifespan = "10 - 15 years",
+            Gender = "♂ Male",
+            Temperament = "Calm",
+            Origin = "Canary Islands",
+            Difficulty = "Beginner",
+            //Price = "R500"
+        },
+
+        new {
+            Name = "Cockatiel",
+            Image = "Cockatiels.jpg",
+            AdultSize = "30 cm",
+            Weight = "80 - 120 g",
+            Lifespan = "15 - 20 years",
+            Gender = "♀ Female",
+            Temperament = "Affectionate",
+            Origin = "Australia",
+            Difficulty = "Beginner",
+            //Price = "R950"
+        },
+
+        new {
+            Name = "Indian Ringneck Parakeet",
+            Image = "Indian Ringneck Parakeets.jpg",
+            AdultSize = "40 cm",
+            Weight = "120 - 140 g",
+            Lifespan = "25 - 30 years",
+            Gender = "♂ Male",
+            Temperament = "Curious",
+            Origin = "India",
+            Difficulty = "Intermediate",
+            //Price = "R2200"
+        },
+
+        new {
+            Name = "Lovebird",
+            Image = "Lovebirds.jpg",
+            AdultSize = "17 cm",
+            Weight = "45 - 60 g",
+            Lifespan = "10 - 15 years",
+            Gender = "♀ Female",
+            Temperament = "Playful",
+            Origin = "Africa",
+            Difficulty = "Intermediate",
+            //Price = "R600"
+        }
+
+
+    };
+
 }
+
+<div class="bird-page">
+
+    <div class="bird-hero d-flex align-items-center justify-content-center text-center">
+
+        <div class="hero-content">
+
+            <h1 class="display-3 fw-bold text-white">
+                Bird Species
+            </h1>
+
+            <p class="lead text-white">
+                Discover beautiful companion birds and learn everything you need before bringing one home.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="container py-5">
+
+<div class="row justify-content-center mb-5">
+
+    <div class="col-md-6">
+
+        <input type="text"
+               class="form-control form-control-lg"
+               placeholder="🔍 Search Birds..." />
+
+    </div>
+
+</div>
+
+<div class="row g-4">
+
+    @foreach (var bird in birdList)
+    {
+        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+
+            <div class="card h-100">
+
+                <img src="~/images/Birds/@bird.Image"
+                     class="card-img-top"
+                     alt="@bird.Name" />
+
+                <div class="card-body">
+
+                    <h4 class="fw-bold">@bird.Name</h4>
+
+                   <hr/>
+
+                    <p><strong>Adult Size:</strong> @bird.AdultSize</p>
+
+                    <p><strong>Weight:</strong> @bird.Weight</p>
+
+                    <p><strong>Lifespan:</strong> @bird.Lifespan</p>
+
+                    <p><strong>Gender:</strong> @bird.Gender</p>
+
+                    <p><strong>Temperament:</strong> @bird.Temperament</p>
+
+                    <p><strong>Origin:</strong> @bird.Origin</p>
+
+                   @*  <p><strong>Price:</strong> @bird.Price</p> *@
+
+
+                    <p>
+
+                        <strong>Difficulty:</strong>
+
+                        @if (bird.Difficulty == "Beginner")
+                        {
+                            <span class="badge bg-success">Beginner</span>
+                        }
+                        else if (bird.Difficulty == "Intermediate")
+                        {
+                            <span class="badge bg-warning text-dark">Intermediate</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-danger">Advanced</span>
+                        }
+
+                    </p>
+
+                    <button class="btn btn-primary w-100">
+                        View Details
+                    </button>
+
+                </div>
+
+            </div>
+
+        </div>
+    }
+
+</div>

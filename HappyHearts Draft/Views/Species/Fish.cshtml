@@ -1,5 +1,112 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    ViewData["Title"] = "Fish";
+
+    var fishlist = new[]
+    {
+        new { Name = "Cardinal Tetra", Image = "Cardinal Tetra .jpg", Type = "Freshwater", Lifespan = "3-5 years", Temperature = "25-28 °C" ,  SuppySize = "+/- 2 cm", AdultSize = "4-5 cm", Difficulty = "Beginner", Price = "R20"},
+        new { Name = "Ember Tetra", Image = "Ember Tetra.jpg", Type = "Freshwater", Lifespan = "2-4 years",  Temperature = "24-28 °C" ,  SuppySize = "+/- 1,5-2 cm", AdultSize = "2-2,5 cm", Difficulty = "Beginner", Price = "R25"},
+        new { Name = "Pink Lemon Tetra", Image = "Pink Lemon Tetra.jpg", Type = "Freshwater", Lifespan = "3-5 years",  Temperature = "22-28 °C" ,  SuppySize = "+/- 2-3 cm", AdultSize = "4-5 cm", Difficulty = "Beginner", Price = "R18"},
+        new { Name = "Black Widow Tetra", Image = "Black Widow Tetra.jpg", Type = "Freshwater", Lifespan = "3-5 years",  Temperature = "22-28 °C", SuppySize = "+/- 2-3 cm", AdultSize = "5-6 cm", Difficulty = "Intermediate" , Price = "R30"},
+        new { Name = "Platies", Image = "Platies.jpg", Type = "Freshwater", Lifespan = "3-5 years",  Temperature = "22-26 °C" ,  SuppySize = "+/- 2-3 cm", AdultSize = "4-6 cm", Difficulty = "Beginner", Price = "R18"},
+        new { Name = "Guppies", Image = "Guppies.jpg", Type = "Freshwater", Lifespan = "2-3 years",  Temperature = "22-28 °C" ,  SuppySize = "+/- 2-3 cm", AdultSize = "3-6 cm", Difficulty = "Intermediate", Price = "R15"},
+        new { Name = "Ballon Mollies (Assorted)", Image = "Ballon Mollies.jpg", Type = "Freshwater", Lifespan = "3-5 years",  Temperature = "24-28 °C", SuppySize = "+/- 3-4 cm", AdultSize = "6-10 cm", Difficulty = "Beginner", Price = "R28"},
+    };
 }
+
+<div class="fish-page">
+
+<div class="fish-hero d-flex align-items-center justify-content-center text-center">
+
+    <div class="hero-content">
+
+        <h1 class="display-3 fw-bold text-white">
+            Fish Species
+        </h1>
+
+        <p class="lead text-white">
+            Explore freshwater and saltwater fish and learn how to care for them.
+        </p>
+
+    </div>
+
+</div>
+
+    <!-- Search -->
+    <div class="row justify-content-center mb-5">
+
+        <div class="col-md-6">
+
+            <input type="text"
+                   id="FishSearch"
+                   class="form-control form-control-lg"
+                   placeholder="🔍 Search types of Fish..." />
+
+        </div>
+
+    </div>
+    <div class="row g-4">
+
+        @foreach (var fish in fishlist)
+        {
+            <div class="col-lg-4 col-md-6" data-aos="fade-up">
+
+                <div class="card h-100">
+
+                    <img src="~/images/fish/@fish.Image"
+                         class="card-img-top"
+                         alt="@fish.Name" />
+
+                    <div class="card-body">
+
+                        <h4 class="fw-bold">
+                            @fish.Name
+                        </h4>
+
+                        <hr />
+
+                        <p><strong> Type:</strong> @fish.Type</p>
+
+                        <p><strong> Adult Size:</strong> @fish.AdultSize</p>
+
+                        <p><strong> Tank Size:</strong> @fish.SuppySize</p>
+
+                        <p><strong> Temperature:</strong> @fish.Temperature</p>
+
+                        <p><strong> Lifespan:</strong> @fish.Lifespan</p>
+
+                        <p>
+                            <strong> Difficulty:</strong>
+
+                            @if (fish.Difficulty == "Beginner")
+                            {
+                                <span class="badge bg-success">Beginner</span>
+                            }
+                            else if (fish.Difficulty == "Intermediate")
+                            {
+                                <span class="badge bg-warning text-dark">Intermediate</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-danger">Advanced</span>
+                            }
+
+                        </p>
+
+                        <p><strong> Price :</strong> @fish.Price</p>
+
+                        <button class="btn btn-primary w-100">
+
+                            Adopt
+
+                        </button>
+
+                    </div>
+
+                </div>
+
+            </div>
+        }
+
+    </div>
+
+</div>

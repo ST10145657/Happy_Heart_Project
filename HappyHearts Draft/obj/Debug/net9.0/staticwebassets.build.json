@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NqtK+PT8lm1VXrWM7L9yyJ18w+qWFfG04/Ef39swgao=",
+  "Hash": "b+1pdOWpvITGwbchJxli6dOxqFlHxY+woZNEF2QwwVQ=",
   "Source": "HappyHearts Draft",
   "BasePath": "_content/HappyHearts Draft",
   "Mode": "Default",
@@ -1109,12 +1109,12 @@
       "OriginalItemSpec": "C:\\Users\\mnqob\\.nuget\\packages\\sweetalert2\\1.0.1\\staticwebassets\\bulmaTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-2cpcxc8psw.gz",
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-am6ude9ray.gz",
       "SourceId": "HappyHearts Draft",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HappyHearts Draft",
-      "RelativePath": "css/site#[.{fingerprint=2cpcxc8psw}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=am6ude9ray}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1123,8 +1123,8 @@
       "RelatedAsset": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "a96g3lsv67",
-      "Integrity": "rloZ1/rJTSk+7+TyHTYt/VS+Vg8qSoVBm4lce4OFR+Y=",
+      "Fingerprint": "7e3otq6bai",
+      "Integrity": "0dOpV9A/o82/rT/OVsfP5TQNYebXutaIv/hTAv3Casc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css"
@@ -2845,8 +2845,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2cpcxc8psw",
-      "Integrity": "vsOAkT8waFPni/t4YmQoG9lW3MqB8jRChyhW3e0hAI4=",
+      "Fingerprint": "am6ude9ray",
+      "Integrity": "AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT+F7r8P8oH8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2873,6 +2873,237 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\Background1.png",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/BackGround/Background1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e1um6njyto",
+      "Integrity": "boyBMAb8KvqZX2l3wb8g0voLxQDigJI1stfswGCBlsU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BackGround\\Background1.png"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\BirdsBackGround.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/BackGround/BirdsBackGround#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "81dlqppdds",
+      "Integrity": "xJw9yzKHsrfZKEySlrEzGPLiyELqBTC3Nz9cwKYr6pc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BackGround\\BirdsBackGround.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\CatBackGround.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/BackGround/CatBackGround#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yq5qq4zcte",
+      "Integrity": "ZkZJz3TbLUfeYx+WRpQ/+UuM3DpUTJl2xDng/3nyi5g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BackGround\\CatBackGround.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\DogBackGround.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/BackGround/DogBackGround#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "68pt2gtjor",
+      "Integrity": "Csm1uSQQOynWHk0qfSZuD6AO9k9MhPTJ58AOU2V6OqU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BackGround\\DogBackGround.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\FishLayoutPic.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/BackGround/FishLayoutPic#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e7xhg0hsga",
+      "Integrity": "ph0CS90CF42cHJXMvWyq13AGV9DELoH11OAlMfSsLqE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BackGround\\FishLayoutPic.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\African Grey Parrots.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/birds/African Grey Parrots#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ayppr2zl4u",
+      "Integrity": "Xv2tftaiwXjDw+3On49C7o59DWoGftyoNq0+lkkyP9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\birds\\African Grey Parrots.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Budgerigars.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/birds/Budgerigars#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zvd6q77fn6",
+      "Integrity": "MW7Im4j20xrSPIA5wuKQ2B53vCExj5ngBEucvB/GhqQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\birds\\Budgerigars.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Canaries.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/birds/Canaries#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lubjnq135i",
+      "Integrity": "Q05ZFY/0mQms7Wn0y45Z8f21zc7e9rAzB+wovBn4tXE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\birds\\Canaries.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Cockatiels.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/birds/Cockatiels#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "55pl9g2t6l",
+      "Integrity": "ibt12Th95Y5qIdUbJdUM45nZ/9c6FhRmpWjA+D++ZA8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\birds\\Cockatiels.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Indian Ringneck Parakeets.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/birds/Indian Ringneck Parakeets#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gakm5iosyj",
+      "Integrity": "OD22aacRS9gHMOItDwBw82Jc5d4mQNRjy3d3Eca9pXA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\birds\\Indian Ringneck Parakeets.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Lovebirds.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/birds/Lovebirds#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lyckojp48g",
+      "Integrity": "Y612PNrkPF2PTM4oj+sMUbMZRfgiAAMT6x21BGWdA7Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\birds\\Lovebirds.jpg"
+    },
+    {
       "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cat.webp",
       "SourceId": "HappyHearts Draft",
       "SourceType": "Discovered",
@@ -2892,6 +3123,279 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\cat.webp"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Brown Cat.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/cats/Brown Cat#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yixwpsxj6t",
+      "Integrity": "RhV0m4w/h/aYaZmuyMoGl1ZltKgMrTOkkVRQWBsHBj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cats\\Brown Cat.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Brown White Cat.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/cats/Brown White Cat#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "13kz9vpjcw",
+      "Integrity": "bSXN2rCQl4NgGvr3JDGEa9qZfjLWXLGSXY3P39K9Rs0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cats\\Brown White Cat.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\CAt.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/cats/CAt#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c7sliioad3",
+      "Integrity": "+KMy1pn0uQ6/hA6brdGA/bIouQJ+dV+im2gM6Yc2lpE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cats\\CAt.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\cat.webp",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/cats/cat#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "njwrkkypey",
+      "Integrity": "g6FTp3TXaDAznVzkmo9GXYjRycaU7PgyqpjCpJiBN4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cats\\cat.webp"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Cat1.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/cats/Cat1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ibl4pr4siu",
+      "Integrity": "7omoeu+xbdEvnnt/7zUc7761y5DcxgnvASuybPC7ERY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cats\\Cat1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Cat2.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/cats/Cat2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cqrsuwkuaf",
+      "Integrity": "ZJn42rqXu1hes1vvaS6Ult+S17pvpwuMwdFC9do/NR0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cats\\Cat2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Ballon Mollies.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/Fish/Ballon Mollies#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fzpj2ter5p",
+      "Integrity": "S4Ay5q2muPh4yUpN3OtVec4Pade+IxF8JCrFpCegq1I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Fish\\Ballon Mollies.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Black Widow Tetra.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/Fish/Black Widow Tetra#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "saiwygncda",
+      "Integrity": "XMlc9k1kgMewzciehjeW2m6Rhn1YBYqk7huk2laXfwE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Fish\\Black Widow Tetra.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra .jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/Fish/Cardinal Tetra #[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vt36coz4in",
+      "Integrity": "HYvy4JvUX96/6KWQiccQ70dR0mSugRjaLId7RlEbRtA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Fish\\Cardinal Tetra .jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Ember Tetra.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/Fish/Ember Tetra#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pyiku2uohh",
+      "Integrity": "AaNDTzRNZ0p+TbC2j74EaRVr82OH3inloQfZRAnRrus=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Fish\\Ember Tetra.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Guppies.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/Fish/Guppies#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "53kuod05x6",
+      "Integrity": "MW3nTDrrPqdfStHSwCc38Cun2J79ac7TpDcj00DzP2Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Fish\\Guppies.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Pink Lemon Tetra.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/Fish/Pink Lemon Tetra#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "paji04ona9",
+      "Integrity": "z/3I43Qlwsa8qV6/1VUeBRetShBDOtPhL6PhEqRcvhY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Fish\\Pink Lemon Tetra.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Platies.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/Fish/Platies#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xeb6zroa2k",
+      "Integrity": "Sc4eosz5FHcRjH2fstk3Ise4eVMoVOmWMGqz1OdheYI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Fish\\Platies.jpg"
     },
     {
       "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Logo.jpeg",
@@ -9297,13 +9801,13 @@
       ]
     },
     {
-      "Route": "css/site.2cpcxc8psw.css",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-2cpcxc8psw.gz",
+      "Route": "css/site.am6ude9ray.css",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-am6ude9ray.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000914076782"
+          "Quality": "0.000618811881"
         }
       ],
       "ResponseHeaders": [
@@ -9313,15 +9817,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1093"
+          "Value": "1615"
         },
         {
           "Name": "ETag",
-          "Value": "\"rloZ1/rJTSk+7+TyHTYt/VS+Vg8qSoVBm4lce4OFR+Y=\""
+          "Value": "\"0dOpV9A/o82/rT/OVsfP5TQNYebXutaIv/hTAv3Casc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jul 2026 11:57:48 GMT"
+          "Value": "Thu, 09 Jul 2026 07:32:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9341,13 +9845,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vsOAkT8waFPni/t4YmQoG9lW3MqB8jRChyhW3e0hAI4=\""
+          "Value": "W/\"AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT+F7r8P8oH8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2cpcxc8psw"
+          "Value": "am6ude9ray"
         },
         {
           "Name": "label",
@@ -9355,12 +9859,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vsOAkT8waFPni/t4YmQoG9lW3MqB8jRChyhW3e0hAI4="
+          "Value": "sha256-AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT+F7r8P8oH8="
         }
       ]
     },
     {
-      "Route": "css/site.2cpcxc8psw.css",
+      "Route": "css/site.am6ude9ray.css",
       "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9370,7 +9874,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3989"
+          "Value": "7149"
         },
         {
           "Name": "Content-Type",
@@ -9378,11 +9882,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vsOAkT8waFPni/t4YmQoG9lW3MqB8jRChyhW3e0hAI4=\""
+          "Value": "\"AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT+F7r8P8oH8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jul 2026 11:57:48 GMT"
+          "Value": "Thu, 09 Jul 2026 07:32:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9392,7 +9896,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2cpcxc8psw"
+          "Value": "am6ude9ray"
         },
         {
           "Name": "label",
@@ -9400,13 +9904,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vsOAkT8waFPni/t4YmQoG9lW3MqB8jRChyhW3e0hAI4="
+          "Value": "sha256-AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT+F7r8P8oH8="
         }
       ]
     },
     {
-      "Route": "css/site.2cpcxc8psw.css.gz",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-2cpcxc8psw.gz",
+      "Route": "css/site.am6ude9ray.css.gz",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-am6ude9ray.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9415,7 +9919,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1093"
+          "Value": "1615"
         },
         {
           "Name": "Content-Type",
@@ -9423,11 +9927,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rloZ1/rJTSk+7+TyHTYt/VS+Vg8qSoVBm4lce4OFR+Y=\""
+          "Value": "\"0dOpV9A/o82/rT/OVsfP5TQNYebXutaIv/hTAv3Casc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jul 2026 11:57:48 GMT"
+          "Value": "Thu, 09 Jul 2026 07:32:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9445,7 +9949,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2cpcxc8psw"
+          "Value": "am6ude9ray"
         },
         {
           "Name": "label",
@@ -9453,18 +9957,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rloZ1/rJTSk+7+TyHTYt/VS+Vg8qSoVBm4lce4OFR+Y="
+          "Value": "sha256-0dOpV9A/o82/rT/OVsfP5TQNYebXutaIv/hTAv3Casc="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-2cpcxc8psw.gz",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-am6ude9ray.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000914076782"
+          "Quality": "0.000618811881"
         }
       ],
       "ResponseHeaders": [
@@ -9474,15 +9978,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1093"
+          "Value": "1615"
         },
         {
           "Name": "ETag",
-          "Value": "\"rloZ1/rJTSk+7+TyHTYt/VS+Vg8qSoVBm4lce4OFR+Y=\""
+          "Value": "\"0dOpV9A/o82/rT/OVsfP5TQNYebXutaIv/hTAv3Casc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jul 2026 11:57:48 GMT"
+          "Value": "Thu, 09 Jul 2026 07:32:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9502,13 +10006,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vsOAkT8waFPni/t4YmQoG9lW3MqB8jRChyhW3e0hAI4=\""
+          "Value": "W/\"AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT+F7r8P8oH8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vsOAkT8waFPni/t4YmQoG9lW3MqB8jRChyhW3e0hAI4="
+          "Value": "sha256-AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT+F7r8P8oH8="
         }
       ]
     },
@@ -9523,7 +10027,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3989"
+          "Value": "7149"
         },
         {
           "Name": "Content-Type",
@@ -9531,11 +10035,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vsOAkT8waFPni/t4YmQoG9lW3MqB8jRChyhW3e0hAI4=\""
+          "Value": "\"AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT+F7r8P8oH8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jul 2026 11:57:48 GMT"
+          "Value": "Thu, 09 Jul 2026 07:32:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9545,13 +10049,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vsOAkT8waFPni/t4YmQoG9lW3MqB8jRChyhW3e0hAI4="
+          "Value": "sha256-AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT+F7r8P8oH8="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-2cpcxc8psw.gz",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-am6ude9ray.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9560,7 +10064,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1093"
+          "Value": "1615"
         },
         {
           "Name": "Content-Type",
@@ -9568,11 +10072,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rloZ1/rJTSk+7+TyHTYt/VS+Vg8qSoVBm4lce4OFR+Y=\""
+          "Value": "\"0dOpV9A/o82/rT/OVsfP5TQNYebXutaIv/hTAv3Casc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 07 Jul 2026 11:57:48 GMT"
+          "Value": "Thu, 09 Jul 2026 07:32:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9590,7 +10094,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rloZ1/rJTSk+7+TyHTYt/VS+Vg8qSoVBm4lce4OFR+Y="
+          "Value": "sha256-0dOpV9A/o82/rT/OVsfP5TQNYebXutaIv/hTAv3Casc="
         }
       ]
     },
@@ -10489,6 +10993,908 @@
       ]
     },
     {
+      "Route": "images/BackGround/Background1.e1um6njyto.png",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\Background1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1447222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"boyBMAb8KvqZX2l3wb8g0voLxQDigJI1stfswGCBlsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 20:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e1um6njyto"
+        },
+        {
+          "Name": "label",
+          "Value": "images/BackGround/Background1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-boyBMAb8KvqZX2l3wb8g0voLxQDigJI1stfswGCBlsU="
+        }
+      ]
+    },
+    {
+      "Route": "images/BackGround/Background1.png",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\Background1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1447222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"boyBMAb8KvqZX2l3wb8g0voLxQDigJI1stfswGCBlsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 20:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-boyBMAb8KvqZX2l3wb8g0voLxQDigJI1stfswGCBlsU="
+        }
+      ]
+    },
+    {
+      "Route": "images/BackGround/BirdsBackGround.81dlqppdds.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\BirdsBackGround.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "272654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJw9yzKHsrfZKEySlrEzGPLiyELqBTC3Nz9cwKYr6pc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 23:18:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81dlqppdds"
+        },
+        {
+          "Name": "label",
+          "Value": "images/BackGround/BirdsBackGround.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xJw9yzKHsrfZKEySlrEzGPLiyELqBTC3Nz9cwKYr6pc="
+        }
+      ]
+    },
+    {
+      "Route": "images/BackGround/BirdsBackGround.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\BirdsBackGround.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "272654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJw9yzKHsrfZKEySlrEzGPLiyELqBTC3Nz9cwKYr6pc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 23:18:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xJw9yzKHsrfZKEySlrEzGPLiyELqBTC3Nz9cwKYr6pc="
+        }
+      ]
+    },
+    {
+      "Route": "images/BackGround/CatBackGround.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\CatBackGround.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZkZJz3TbLUfeYx+WRpQ/+UuM3DpUTJl2xDng/3nyi5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 23:15:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZkZJz3TbLUfeYx+WRpQ/+UuM3DpUTJl2xDng/3nyi5g="
+        }
+      ]
+    },
+    {
+      "Route": "images/BackGround/CatBackGround.yq5qq4zcte.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\CatBackGround.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZkZJz3TbLUfeYx+WRpQ/+UuM3DpUTJl2xDng/3nyi5g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 23:15:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yq5qq4zcte"
+        },
+        {
+          "Name": "label",
+          "Value": "images/BackGround/CatBackGround.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZkZJz3TbLUfeYx+WRpQ/+UuM3DpUTJl2xDng/3nyi5g="
+        }
+      ]
+    },
+    {
+      "Route": "images/BackGround/DogBackGround.68pt2gtjor.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\DogBackGround.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Csm1uSQQOynWHk0qfSZuD6AO9k9MhPTJ58AOU2V6OqU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 23:20:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "68pt2gtjor"
+        },
+        {
+          "Name": "label",
+          "Value": "images/BackGround/DogBackGround.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Csm1uSQQOynWHk0qfSZuD6AO9k9MhPTJ58AOU2V6OqU="
+        }
+      ]
+    },
+    {
+      "Route": "images/BackGround/DogBackGround.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\DogBackGround.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Csm1uSQQOynWHk0qfSZuD6AO9k9MhPTJ58AOU2V6OqU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 23:20:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Csm1uSQQOynWHk0qfSZuD6AO9k9MhPTJ58AOU2V6OqU="
+        }
+      ]
+    },
+    {
+      "Route": "images/BackGround/FishLayoutPic.e7xhg0hsga.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\FishLayoutPic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ph0CS90CF42cHJXMvWyq13AGV9DELoH11OAlMfSsLqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 20:06:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e7xhg0hsga"
+        },
+        {
+          "Name": "label",
+          "Value": "images/BackGround/FishLayoutPic.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ph0CS90CF42cHJXMvWyq13AGV9DELoH11OAlMfSsLqE="
+        }
+      ]
+    },
+    {
+      "Route": "images/BackGround/FishLayoutPic.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\FishLayoutPic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ph0CS90CF42cHJXMvWyq13AGV9DELoH11OAlMfSsLqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 20:06:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ph0CS90CF42cHJXMvWyq13AGV9DELoH11OAlMfSsLqE="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/African Grey Parrots.ayppr2zl4u.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\African Grey Parrots.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xv2tftaiwXjDw+3On49C7o59DWoGftyoNq0+lkkyP9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:34:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ayppr2zl4u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/birds/African Grey Parrots.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xv2tftaiwXjDw+3On49C7o59DWoGftyoNq0+lkkyP9E="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/African Grey Parrots.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\African Grey Parrots.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xv2tftaiwXjDw+3On49C7o59DWoGftyoNq0+lkkyP9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:34:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xv2tftaiwXjDw+3On49C7o59DWoGftyoNq0+lkkyP9E="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/Budgerigars.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Budgerigars.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MW7Im4j20xrSPIA5wuKQ2B53vCExj5ngBEucvB/GhqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:32:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MW7Im4j20xrSPIA5wuKQ2B53vCExj5ngBEucvB/GhqQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/Budgerigars.zvd6q77fn6.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Budgerigars.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MW7Im4j20xrSPIA5wuKQ2B53vCExj5ngBEucvB/GhqQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:32:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zvd6q77fn6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/birds/Budgerigars.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MW7Im4j20xrSPIA5wuKQ2B53vCExj5ngBEucvB/GhqQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/Canaries.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Canaries.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q05ZFY/0mQms7Wn0y45Z8f21zc7e9rAzB+wovBn4tXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:34:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q05ZFY/0mQms7Wn0y45Z8f21zc7e9rAzB+wovBn4tXE="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/Canaries.lubjnq135i.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Canaries.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q05ZFY/0mQms7Wn0y45Z8f21zc7e9rAzB+wovBn4tXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:34:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lubjnq135i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/birds/Canaries.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q05ZFY/0mQms7Wn0y45Z8f21zc7e9rAzB+wovBn4tXE="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/Cockatiels.55pl9g2t6l.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Cockatiels.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ibt12Th95Y5qIdUbJdUM45nZ/9c6FhRmpWjA+D++ZA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:32:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "55pl9g2t6l"
+        },
+        {
+          "Name": "label",
+          "Value": "images/birds/Cockatiels.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ibt12Th95Y5qIdUbJdUM45nZ/9c6FhRmpWjA+D++ZA8="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/Cockatiels.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Cockatiels.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ibt12Th95Y5qIdUbJdUM45nZ/9c6FhRmpWjA+D++ZA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:32:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ibt12Th95Y5qIdUbJdUM45nZ/9c6FhRmpWjA+D++ZA8="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/Indian Ringneck Parakeets.gakm5iosyj.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Indian Ringneck Parakeets.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OD22aacRS9gHMOItDwBw82Jc5d4mQNRjy3d3Eca9pXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:35:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gakm5iosyj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/birds/Indian Ringneck Parakeets.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OD22aacRS9gHMOItDwBw82Jc5d4mQNRjy3d3Eca9pXA="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/Indian Ringneck Parakeets.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Indian Ringneck Parakeets.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OD22aacRS9gHMOItDwBw82Jc5d4mQNRjy3d3Eca9pXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:35:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OD22aacRS9gHMOItDwBw82Jc5d4mQNRjy3d3Eca9pXA="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/Lovebirds.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Lovebirds.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y612PNrkPF2PTM4oj+sMUbMZRfgiAAMT6x21BGWdA7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:33:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y612PNrkPF2PTM4oj+sMUbMZRfgiAAMT6x21BGWdA7Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/birds/Lovebirds.lyckojp48g.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Lovebirds.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y612PNrkPF2PTM4oj+sMUbMZRfgiAAMT6x21BGWdA7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:33:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lyckojp48g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/birds/Lovebirds.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y612PNrkPF2PTM4oj+sMUbMZRfgiAAMT6x21BGWdA7Q="
+        }
+      ]
+    },
+    {
       "Route": "images/cat.njwrkkypey.webp",
       "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cat.webp",
       "Selectors": [],
@@ -10567,6 +11973,1072 @@
         {
           "Name": "integrity",
           "Value": "sha256-g6FTp3TXaDAznVzkmo9GXYjRycaU7PgyqpjCpJiBN4A="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/Brown Cat.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Brown Cat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RhV0m4w/h/aYaZmuyMoGl1ZltKgMrTOkkVRQWBsHBj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jul 2026 10:23:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RhV0m4w/h/aYaZmuyMoGl1ZltKgMrTOkkVRQWBsHBj4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/Brown Cat.yixwpsxj6t.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Brown Cat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RhV0m4w/h/aYaZmuyMoGl1ZltKgMrTOkkVRQWBsHBj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jul 2026 10:23:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yixwpsxj6t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cats/Brown Cat.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RhV0m4w/h/aYaZmuyMoGl1ZltKgMrTOkkVRQWBsHBj4="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/Brown White Cat.13kz9vpjcw.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Brown White Cat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSXN2rCQl4NgGvr3JDGEa9qZfjLWXLGSXY3P39K9Rs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jul 2026 10:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "13kz9vpjcw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cats/Brown White Cat.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bSXN2rCQl4NgGvr3JDGEa9qZfjLWXLGSXY3P39K9Rs0="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/Brown White Cat.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Brown White Cat.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bSXN2rCQl4NgGvr3JDGEa9qZfjLWXLGSXY3P39K9Rs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jul 2026 10:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bSXN2rCQl4NgGvr3JDGEa9qZfjLWXLGSXY3P39K9Rs0="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/CAt.c7sliioad3.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\CAt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+KMy1pn0uQ6/hA6brdGA/bIouQJ+dV+im2gM6Yc2lpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jul 2026 19:07:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c7sliioad3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cats/CAt.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+KMy1pn0uQ6/hA6brdGA/bIouQJ+dV+im2gM6Yc2lpE="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/CAt.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\CAt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+KMy1pn0uQ6/hA6brdGA/bIouQJ+dV+im2gM6Yc2lpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jul 2026 19:07:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+KMy1pn0uQ6/hA6brdGA/bIouQJ+dV+im2gM6Yc2lpE="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/cat.njwrkkypey.webp",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\cat.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g6FTp3TXaDAznVzkmo9GXYjRycaU7PgyqpjCpJiBN4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jul 2026 17:12:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "njwrkkypey"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cats/cat.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g6FTp3TXaDAznVzkmo9GXYjRycaU7PgyqpjCpJiBN4A="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/cat.webp",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\cat.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g6FTp3TXaDAznVzkmo9GXYjRycaU7PgyqpjCpJiBN4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jul 2026 17:12:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g6FTp3TXaDAznVzkmo9GXYjRycaU7PgyqpjCpJiBN4A="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/Cat1.ibl4pr4siu.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Cat1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7omoeu+xbdEvnnt/7zUc7761y5DcxgnvASuybPC7ERY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:41:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ibl4pr4siu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cats/Cat1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7omoeu+xbdEvnnt/7zUc7761y5DcxgnvASuybPC7ERY="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/Cat1.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Cat1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7omoeu+xbdEvnnt/7zUc7761y5DcxgnvASuybPC7ERY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:41:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7omoeu+xbdEvnnt/7zUc7761y5DcxgnvASuybPC7ERY="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/Cat2.cqrsuwkuaf.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Cat2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZJn42rqXu1hes1vvaS6Ult+S17pvpwuMwdFC9do/NR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:42:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cqrsuwkuaf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cats/Cat2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZJn42rqXu1hes1vvaS6Ult+S17pvpwuMwdFC9do/NR0="
+        }
+      ]
+    },
+    {
+      "Route": "images/cats/Cat2.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Cat2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZJn42rqXu1hes1vvaS6Ult+S17pvpwuMwdFC9do/NR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:42:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZJn42rqXu1hes1vvaS6Ult+S17pvpwuMwdFC9do/NR0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Ballon Mollies.fzpj2ter5p.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Ballon Mollies.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S4Ay5q2muPh4yUpN3OtVec4Pade+IxF8JCrFpCegq1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:12:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fzpj2ter5p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Fish/Ballon Mollies.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S4Ay5q2muPh4yUpN3OtVec4Pade+IxF8JCrFpCegq1I="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Ballon Mollies.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Ballon Mollies.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S4Ay5q2muPh4yUpN3OtVec4Pade+IxF8JCrFpCegq1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:12:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S4Ay5q2muPh4yUpN3OtVec4Pade+IxF8JCrFpCegq1I="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Black Widow Tetra.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Black Widow Tetra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XMlc9k1kgMewzciehjeW2m6Rhn1YBYqk7huk2laXfwE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:10:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XMlc9k1kgMewzciehjeW2m6Rhn1YBYqk7huk2laXfwE="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Black Widow Tetra.saiwygncda.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Black Widow Tetra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XMlc9k1kgMewzciehjeW2m6Rhn1YBYqk7huk2laXfwE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:10:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "saiwygncda"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Fish/Black Widow Tetra.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XMlc9k1kgMewzciehjeW2m6Rhn1YBYqk7huk2laXfwE="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Cardinal Tetra .jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra .jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HYvy4JvUX96/6KWQiccQ70dR0mSugRjaLId7RlEbRtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:00:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HYvy4JvUX96/6KWQiccQ70dR0mSugRjaLId7RlEbRtA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Cardinal Tetra .vt36coz4in.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra .jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HYvy4JvUX96/6KWQiccQ70dR0mSugRjaLId7RlEbRtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:00:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vt36coz4in"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Fish/Cardinal Tetra .jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HYvy4JvUX96/6KWQiccQ70dR0mSugRjaLId7RlEbRtA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Ember Tetra.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Ember Tetra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AaNDTzRNZ0p+TbC2j74EaRVr82OH3inloQfZRAnRrus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:13:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AaNDTzRNZ0p+TbC2j74EaRVr82OH3inloQfZRAnRrus="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Ember Tetra.pyiku2uohh.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Ember Tetra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AaNDTzRNZ0p+TbC2j74EaRVr82OH3inloQfZRAnRrus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:13:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pyiku2uohh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Fish/Ember Tetra.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AaNDTzRNZ0p+TbC2j74EaRVr82OH3inloQfZRAnRrus="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Guppies.53kuod05x6.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Guppies.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MW3nTDrrPqdfStHSwCc38Cun2J79ac7TpDcj00DzP2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "53kuod05x6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Fish/Guppies.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MW3nTDrrPqdfStHSwCc38Cun2J79ac7TpDcj00DzP2Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Guppies.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Guppies.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MW3nTDrrPqdfStHSwCc38Cun2J79ac7TpDcj00DzP2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:11:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MW3nTDrrPqdfStHSwCc38Cun2J79ac7TpDcj00DzP2Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Pink Lemon Tetra.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Pink Lemon Tetra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z/3I43Qlwsa8qV6/1VUeBRetShBDOtPhL6PhEqRcvhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:09:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z/3I43Qlwsa8qV6/1VUeBRetShBDOtPhL6PhEqRcvhY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Pink Lemon Tetra.paji04ona9.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Pink Lemon Tetra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z/3I43Qlwsa8qV6/1VUeBRetShBDOtPhL6PhEqRcvhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:09:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "paji04ona9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Fish/Pink Lemon Tetra.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z/3I43Qlwsa8qV6/1VUeBRetShBDOtPhL6PhEqRcvhY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Platies.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Platies.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sc4eosz5FHcRjH2fstk3Ise4eVMoVOmWMGqz1OdheYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:10:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sc4eosz5FHcRjH2fstk3Ise4eVMoVOmWMGqz1OdheYI="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fish/Platies.xeb6zroa2k.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Platies.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sc4eosz5FHcRjH2fstk3Ise4eVMoVOmWMGqz1OdheYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 15:10:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xeb6zroa2k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Fish/Platies.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sc4eosz5FHcRjH2fstk3Ise4eVMoVOmWMGqz1OdheYI="
         }
       ]
     },

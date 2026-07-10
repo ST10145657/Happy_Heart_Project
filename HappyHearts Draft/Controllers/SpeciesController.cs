@@ -29,16 +29,16 @@ namespace HappyHearts_Draft.Controllers
             return View();
         }
 
-        public IActionResult GuineaPigs()
+        public IActionResult Bunnies()
         {
             return View();
         }
 
-        public IActionResult Details(string type)
-        {
-            ViewBag.SpeciesType = type;
+        //public IActionResult Details(string type)
+        //{
+        //    ViewBag.SpeciesType = type;
 
-            return View();
-        }
+        //    return View();
+        //}
     }
 }

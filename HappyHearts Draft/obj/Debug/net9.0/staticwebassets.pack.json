@@ -13,12 +13,108 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\Background1.png",
+      "PackagePath": "staticwebassets\\images\\BackGround\\Background1.png"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\BirdsBackGround.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\BirdsBackGround.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\CatBackGround.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\CatBackGround.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\DogBackGround.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\DogBackGround.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\BackGround\\FishLayoutPic.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\FishLayoutPic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Ballon Mollies.jpg",
+      "PackagePath": "staticwebassets\\images\\Fish\\Ballon Mollies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Black Widow Tetra.jpg",
+      "PackagePath": "staticwebassets\\images\\Fish\\Black Widow Tetra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra .jpg",
+      "PackagePath": "staticwebassets\\images\\Fish\\Cardinal Tetra .jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Ember Tetra.jpg",
+      "PackagePath": "staticwebassets\\images\\Fish\\Ember Tetra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Guppies.jpg",
+      "PackagePath": "staticwebassets\\images\\Fish\\Guppies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Pink Lemon Tetra.jpg",
+      "PackagePath": "staticwebassets\\images\\Fish\\Pink Lemon Tetra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Platies.jpg",
+      "PackagePath": "staticwebassets\\images\\Fish\\Platies.jpg"
+    },
+    {
       "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Logo.jpeg",
       "PackagePath": "staticwebassets\\images\\Logo.jpeg"
     },
     {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\African Grey Parrots.jpg",
+      "PackagePath": "staticwebassets\\images\\birds\\African Grey Parrots.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Budgerigars.jpg",
+      "PackagePath": "staticwebassets\\images\\birds\\Budgerigars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Canaries.jpg",
+      "PackagePath": "staticwebassets\\images\\birds\\Canaries.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Cockatiels.jpg",
+      "PackagePath": "staticwebassets\\images\\birds\\Cockatiels.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Indian Ringneck Parakeets.jpg",
+      "PackagePath": "staticwebassets\\images\\birds\\Indian Ringneck Parakeets.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\birds\\Lovebirds.jpg",
+      "PackagePath": "staticwebassets\\images\\birds\\Lovebirds.jpg"
+    },
+    {
       "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cat.webp",
       "PackagePath": "staticwebassets\\images\\cat.webp"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Brown Cat.jpg",
+      "PackagePath": "staticwebassets\\images\\cats\\Brown Cat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Brown White Cat.jpg",
+      "PackagePath": "staticwebassets\\images\\cats\\Brown White Cat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\CAt.jpg",
+      "PackagePath": "staticwebassets\\images\\cats\\CAt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Cat1.jpg",
+      "PackagePath": "staticwebassets\\images\\cats\\Cat1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\Cat2.jpg",
+      "PackagePath": "staticwebassets\\images\\cats\\Cat2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cats\\cat.webp",
+      "PackagePath": "staticwebassets\\images\\cats\\cat.webp"
     },
     {
       "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\pets\\Border.jpg",

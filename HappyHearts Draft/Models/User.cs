@@ -1,6 +1,6 @@
 ﻿namespace HappyHearts_Draft.Models
 {
-    public class Shop
+    public class User
     {
     }
 }
