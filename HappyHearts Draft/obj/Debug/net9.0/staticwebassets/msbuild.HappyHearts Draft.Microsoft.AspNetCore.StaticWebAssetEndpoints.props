@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/css/site.am6ude9ray.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"am6ude9ray"},{"Name":"integrity","Value":"sha256-AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT\u002BF7r8P8oH8="},{"Name":"label","Value":"_content/HappyHearts Draft/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7149"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT\u002BF7r8P8oH8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jul 2026 07:32:04 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT\u002BF7r8P8oH8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7149"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022AvJRgpRtS2lmLhb/LDzdt1AUziboC0aYT\u002BF7r8P8oH8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 09 Jul 2026 07:32:04 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj\u002BdP5a/KpFmE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8669"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj\u002BdP5a/KpFmE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jul 2026 01:22:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/css/site.w67e4dou2i.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w67e4dou2i"},{"Name":"integrity","Value":"sha256-6PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj\u002BdP5a/KpFmE="},{"Name":"label","Value":"_content/HappyHearts Draft/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8669"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj\u002BdP5a/KpFmE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 11 Jul 2026 01:22:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

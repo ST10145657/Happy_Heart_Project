@@ -2,7 +2,7 @@
 
 namespace HappyHearts_Draft.Interfaces
 {
-    public class ISupabaseService
+    public interface ISupabaseService
     {
         Client Client { get; }
     }

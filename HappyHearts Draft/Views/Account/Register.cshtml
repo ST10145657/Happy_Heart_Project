@@ -1,0 +1,117 @@
+﻿@model HappyHearts_Draft.Models.ViewModels.RegisterViewModel
+
+@{
+    Layout = "_AuthLayout";
+    ViewData["Title"] = "Register";
+}
+<div class="login-page">
+
+    <img src="~/images/Logo.jpeg"
+         class="background-logo" />
+
+    <div class="login-card">
+
+        <img src="~/images/Logo.jpeg"
+             class="login-logo" />
+
+        <h2>Create Account</h2>
+
+        <p class="login-text">
+            Join Happy Hearts and start finding your perfect companion.
+        </p>
+
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger">
+                @ViewBag.Error
+            </div>
+        }
+
+        <form asp-action="Register" method="post">
+
+            <div class="mb-3">
+
+                <label>Full Name</label>
+
+                <input asp-for="FullName"
+                       class="form-control form-control-lg" />
+
+                <span asp-validation-for="FullName"
+                      class="text-danger"></span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label>Email</label>
+
+                <input asp-for="Email"
+                       class="form-control form-control-lg" />
+
+                <span asp-validation-for="Email"
+                      class="text-danger"></span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label>Password</label>
+
+                <input asp-for="Password"
+                       class="form-control form-control-lg" />
+
+                <span asp-validation-for="Password"
+                      class="text-danger"></span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label>Confirm Password</label>
+
+                <input asp-for="ConfirmPassword"
+                       class="form-control form-control-lg" />
+
+                <span asp-validation-for="ConfirmPassword"
+                      class="text-danger"></span>
+
+            </div>
+
+            <div class="form-check mb-4">
+
+                <input asp-for="Newsletter"
+                       class="form-check-input" />
+
+                <label class="form-check-label">
+                    Sign me up for newsletters and special offers.
+                </label>
+
+            </div>
+
+            <button type="submit"
+                    class="btn btn-primary w-100">
+
+                Create Account
+
+            </button>
+
+        </form>
+
+        <div class="text-center mt-4">
+
+            Already have an account?
+
+            <a asp-action="Login">
+                Sign In
+            </a>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

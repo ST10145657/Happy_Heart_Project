@@ -160,3 +160,20 @@
     </div>
 
 </section>
+
+@if (User.Identity?.IsAuthenticated == true)
+{
+    <h3>
+        Welcome @User.Identity.Name
+    </h3>
+
+    <p>
+        Role: @User.FindFirst(System.Security.Claims.ClaimTypes.Role)?.Value
+    </p>
+}
+else
+{
+    <h3>
+        Guest User
+    </h3>
+}

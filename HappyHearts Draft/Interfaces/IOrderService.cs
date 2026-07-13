@@ -1,6 +1,6 @@
 ﻿namespace HappyHearts_Draft.Interfaces
 {
-    public class IOrderService
+    public interface IOrderService
     {
     }
 }

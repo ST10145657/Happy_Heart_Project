@@ -1,0 +1,123 @@
+﻿@model HappyHearts_Draft.Models.ViewModels.LoginViewModel
+
+@{
+    Layout = "_AuthLayout";
+    ViewData["Title"] = "Login";
+}
+
+<div class="login-page">
+
+    <!-- Background Logo -->
+    <img src="~/images/Logo.jpeg"
+         class="background-logo"
+         alt="Happy Hearts" />
+
+    <div class="login-card">
+
+        <img src="~/images/Logo.jpeg"
+             class="login-logo"
+             alt="Happy Hearts" />
+
+        <h2>Welcome Back!</h2>
+
+        <p class="login-text">
+            Sign in to continue shopping and manage your pet adoptions.
+        </p>
+
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger">
+                @ViewBag.Error
+            </div>
+        }
+
+        <form asp-action="Login" method="post">
+
+            <div class="mb-3">
+
+                <label asp-for="Email" class="form-label">
+                    Email Address
+                </label>
+
+                <input asp-for="Email"
+                       class="form-control form-control-lg"
+                       placeholder="Enter your email" />
+
+                <span asp-validation-for="Email"
+                      class="text-danger"></span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label asp-for="Password" class="form-label">
+                    Password
+                </label>
+
+                <input asp-for="Password"
+                       class="form-control form-control-lg"
+                       placeholder="Enter your password" />
+
+                <span asp-validation-for="Password"
+                      class="text-danger"></span>
+
+            </div>
+
+            <div class="d-flex justify-content-between mb-4">
+
+                <div class="form-check">
+
+                    <input asp-for="RememberMe"
+                           class="form-check-input" />
+
+                    <label asp-for="RememberMe"
+                           class="form-check-label">
+                        Remember Me
+                    </label>
+
+                </div>
+
+                <a asp-action="ForgotPassword">
+                    Forgot Password?
+                </a>
+
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100 mb-3">
+                Sign In
+            </button>
+
+            <div class="text-center my-4">
+                <strong>OR</strong>
+            </div>
+
+            <button type="button"
+                    class="btn btn-light border w-100 google-btn">
+
+                <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg"
+                     width="22" />
+
+                Continue with Google
+
+            </button>
+
+            <div class="text-center mt-4">
+
+                Don't have an account?
+
+                <a asp-action="Register">
+                    Register
+                </a>
+
+            </div>
+
+        </form>
+
+    </div>
+
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

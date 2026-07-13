@@ -11,15 +11,19 @@ namespace HappyHearts_Draft.Services
 
         public SupabaseService(IOptions<SupabaseSettings> settings)
         {
-           
 
-            Console.WriteLine("========== SUPABASE ==========");
-            Console.WriteLine($"URL: {settings.Value.Url}");
-            Console.WriteLine($"Key Empty: {string.IsNullOrWhiteSpace(settings.Value.Key)}");
-            Console.WriteLine($"Key Length: {settings.Value.Key?.Length}");
-            Console.WriteLine("==============================");
 
-            throw new Exception("Stop here");
+            var options = new SupabaseOptions
+            {
+                AutoConnectRealtime = false
+            };
+
+            Client = new Client(
+                settings.Value.Url,
+                settings.Value.Key,
+                options);
+
+            Client.InitializeAsync().Wait();
         }
     }
 

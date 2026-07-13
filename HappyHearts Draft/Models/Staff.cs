@@ -1,15 +1,20 @@
-﻿namespace HappyHearts_Draft.Models
+﻿using Supabase.Postgrest.Attributes;
+using Supabase.Postgrest.Models;
+
+namespace HappyHearts_Draft.Models
 {
-    public class Staff
+    public class Staff : BaseModel
     {
-        public int StaffID { get; set; }
+        [PrimaryKey("StaffId")]
+        public long StaffId { get; set; }
 
-        public string FullName { get; set; } = string.Empty;
+        [Column("Name")]
+        public string Name { get; set; }
 
-        public string Position { get; set; } = string.Empty;
+        [Column("Role")]
+        public string Role { get; set; }
 
-        public string Biography { get; set; } = string.Empty;
-
-        public string ImageUrl { get; set; } = string.Empty;
+        [Column("Email")]
+        public string Email { get; set; }
     }
 }

@@ -1,57 +1,36 @@
-﻿@{
+﻿@model List<HappyHearts_Draft.Models.Product>
+
+@{
     ViewData["Title"] = "Shop";
-
-    var products = new[]
-    {
-        new {
-            Name = "Premium Fish Tank",
-            Price = "R 2,499.99",
-            Category = "Fish",
-            Image = "tank.jpeg",
-            Description = "A spacious glass aquarium suitable for freshwater and tropical fish."
-        },
-
-        new {
-            Name = "Comfort Dog Leash",
-            Price = "R 199.99",
-            Category = "Dog",
-            Image = "Dogleash.jpg",
-            Description = "Strong nylon leash with a padded handle for comfortable daily walks."
-        },
-
-        new {
-            Name = "Luxury Cat Cage",
-            Price = "R 3,999.99",
-            Category = "Cat",
-            Image = "CatCage.webp",
-            Description = "Large indoor cat enclosure with multiple levels and resting platforms."
-        },
-
-        new {
-            Name = "Net",
-            Price = "R 1,499.99",
-            Category = "Fish",
-            Image = "Net.jpeg",
-            Description = "Fish Net to help your little fish friend."
-        },
-
-        new {
-            Name = "Fish StarterKit",
-            Price = "R 899.99",
-            Category = "Fish",
-            Image = "StarterKit.jpeg",
-            Description = "Fish starter pack to get your little fish friend started."
-        },
-
-        new {
-            Name = "Filter ",
-            Price = "R 699.99",
-            Category = "Fish",
-            Image = "filter .jpeg",
-            Description = "High-performance filtration system for crystal-clear aquarium water."
-        }
-    };
 }
+
+<div class="container py-5">
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+
+            @TempData["Success"]
+
+            <button type="button"
+                    class="btn-close"
+                    data-bs-dismiss="alert">
+            </button>
+
+        </div>
+    }
+
+    <div class="text-center mb-5" data-aos="fade-up">
+
+        <h1 class="display-4 fw-bold">
+            Pet Shop
+        </h1>
+
+        <p class="lead text-muted">
+            Everything your pet needs in one place.
+        </p>
+
+    </div>
 
 <div class="container py-5">
 
@@ -81,7 +60,7 @@
 
     </div>
 
-    @foreach (var item in products)
+    @foreach (var item in Model)
     {
         <div class="product-row mb-4" data-aos="fade-up">
 
@@ -89,9 +68,9 @@
 
                 <div class="col-lg-3">
 
-                    <img src="~/images/shop/@item.Image"
-                         class="img-fluid rounded"
-                         alt="@item.Name" />
+                        <img src="~/images/shop/@item.ImageUrl"
+                             class="img-fluid rounded"
+                             alt="@item.Name" />
 
                 </div>
 
@@ -115,15 +94,32 @@
 
                     <h2 class="text-success fw-bold">
 
-                        @item.Price
+                            R @item.Price.ToString("N2")
 
                     </h2>
 
-                    <button class="btn btn-primary w-100 mt-3">
+                    <form asp-controller="Cart"
+                          asp-action="AddProduct"
+                          method="post">
 
-                        View Product
+                        <input type="hidden"
+                               name="productId"
+                               value="@item.ProductId" />
 
-                    </button>
+                        <input type="hidden"
+                               name="quantity"
+                               value="1" />
+
+                        <button type="submit"
+                                class="btn btn-success w-100 mt-3">
+
+                            <i class="fa-solid fa-cart-shopping"></i>
+
+                            Add To Cart
+
+                        </button>
+
+                    </form>
 
                 </div>
 

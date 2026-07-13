@@ -1,6 +1,7 @@
 ﻿namespace HappyHearts_Draft.Interfaces
 {
-    public class IProductService
+    public interface IProductService
     {
+
     }
 }

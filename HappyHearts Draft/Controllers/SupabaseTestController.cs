@@ -1,4 +1,5 @@
 ﻿using HappyHearts_Draft.Interfaces;
+using HappyHearts_Draft.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HappyHearts_Draft.Controllers
@@ -12,9 +13,13 @@ namespace HappyHearts_Draft.Controllers
             _supabase = supabase;
         }
 
-        public IActionResult Index()
+        public async Task< IActionResult> Index()
         {
-            return Content("✅ Connected to Supabase successfully!");
+            var products = await _supabase.Client
+          .From<Product>()
+          .Get();
+
+            return Content($"✅ Connected! Found {products.Models.Count} products.");
         }
     }
 }

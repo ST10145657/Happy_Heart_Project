@@ -364,3 +364,95 @@ footer {
 .bird-page .card {
     border-top: 6px solid #4FA3FF;
 }
+
+/*==========================
+        LOGIN PAGE
+==========================*/
+
+.login-page {
+    min-height: 100vh;
+    background: #FFF8F0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.background-logo {
+    position: absolute;
+    width: 850px;
+    opacity: .08;
+    z-index: 0;
+}
+
+.login-card {
+    position: relative;
+    z-index: 2;
+    width: 480px;
+    background: rgba(255,255,255,.94);
+    backdrop-filter: blur(12px);
+    border-radius: 30px;
+    padding: 45px;
+    box-shadow: 0 15px 40px rgba(0,0,0,.15);
+}
+
+.login-logo {
+    width: 120px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.login-card h2 {
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.login-text {
+    text-align: center;
+    margin-bottom: 35px;
+    color: #666;
+}
+
+.login-card input {
+    border-radius: 15px;
+    height: 55px;
+}
+
+.login-card .btn-primary {
+    border-radius: 50px;
+    height: 55px;
+    font-size: 18px;
+}
+
+.google-btn {
+    height: 55px;
+    border-radius: 50px;
+    font-weight: 600;
+}
+
+    .google-btn img {
+        margin-right: 10px;
+    }
+
+.login-card a {
+    text-decoration: none;
+}
+
+    .login-card a:hover {
+        text-decoration: underline;
+    }
+
+@media(max-width:768px) {
+
+    .login-card {
+        width: 90%;
+        padding: 30px;
+    }
+
+    .background-logo {
+        width: 500px;
+    }
+}

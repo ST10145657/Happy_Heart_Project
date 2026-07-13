@@ -1,6 +1,6 @@
 ﻿namespace HappyHearts_Draft.Interfaces
 {
-    public class IEmailService
+    public interface IEmailService
     {
     }
 }

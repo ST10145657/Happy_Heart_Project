@@ -1,6 +1,8 @@
 using HappyHearts_Draft.Services;
 using HappyHearts_Draft.Models;
 using HappyHearts_Draft.Interfaces;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using System.Security.Claims;
 
 namespace HappyHearts_Draft
 {
@@ -13,16 +15,27 @@ namespace HappyHearts_Draft
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/Account/Login";
+        options.AccessDeniedPath = "/Account/Login";
+        options.LogoutPath = "/Account/Logout";
+
+        options.Cookie.Name = "HappyHeartsAuth";
+    });
+
+
             // Register Services
             builder.Services.AddSingleton<ISupabaseService, SupabaseService>();
 
-            builder.Configuration.GetSection("Supabase");
-
+            builder.Services.Configure<SupabaseSettings>(
+            builder.Configuration.GetSection("Supabase"));
             builder.Services.AddScoped<ProductService>();
             builder.Services.AddScoped<PetService>();
-            builder.Services.AddScoped<CartService>();
+            builder.Services.AddScoped<ICartService, CartService>();
             builder.Services.AddScoped<OrderService>();
-            builder.Services.AddScoped<AuthService>();
+            builder.Services.AddScoped<IAuthService, AuthService>();
             builder.Services.AddScoped<EmailService>();
             builder.Services.AddScoped<NewsletterService>();
 
@@ -38,6 +51,8 @@ namespace HappyHearts_Draft
 
             app.UseHttpsRedirection();
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

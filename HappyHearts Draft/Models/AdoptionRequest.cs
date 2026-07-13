@@ -1,19 +1,27 @@
-﻿namespace HappyHearts_Draft.Models
+﻿using Supabase.Postgrest.Attributes;
+using Supabase.Postgrest.Models;
+
+namespace HappyHearts_Draft.Models
 {
-    public class AdoptionRequest
+    [Table("AdoptionRequests")]
+    public class AdoptionRequest : BaseModel
     {
-        public int RequestID { get; set; }
+        [PrimaryKey("RequestId")]
+        public long RequestId { get; set; }
 
-        public string FullName { get; set; } = string.Empty;
+        [Column("PetId")]
+        public long PetId { get; set; }
 
-        public string Email { get; set; } = string.Empty;
+        [Column("UserId")]
+        public string UserId { get; set; }
 
-        public string PhoneNumber { get; set; } = string.Empty;
+        [Column("Status")]
+        public string Status { get; set; }
 
-        public int PetID { get; set; }
+        [Column("Message")]
+        public string Message { get; set; }
 
+        [Column("RequestDate")]
         public DateTime RequestDate { get; set; }
-
-        public string Status { get; set; } = "Pending";
     }
 }
