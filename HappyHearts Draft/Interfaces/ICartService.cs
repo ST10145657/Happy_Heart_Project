@@ -29,5 +29,9 @@ namespace HappyHearts_Draft.Interfaces
 
         Task<decimal> GetCartTotalAsync(
             long cartId);
+
+        Task<int> GetCartCountAsync(
+            string userId);
+
     }
 }

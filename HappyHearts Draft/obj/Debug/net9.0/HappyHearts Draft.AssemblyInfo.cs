@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HappyHearts Draft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e3999af52eae6cf30257a505ff73d04bafff815")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ef9e66843f364f735b158793aad193236081cf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("HappyHearts Draft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HappyHearts Draft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

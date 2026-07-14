@@ -24,7 +24,7 @@ namespace HappyHearts_Draft.Models
         [Column("Newsletter")]
         public bool Newsletter { get; set; }
 
-        [Column("Created_at")]
-        public DateTime CreatedAt { get; set; }
+        [Column("created_at")]
+        public DateTime Created_at { get; set; }
     }
 }

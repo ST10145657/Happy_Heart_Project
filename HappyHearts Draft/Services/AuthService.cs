@@ -17,9 +17,28 @@ namespace HappyHearts_Draft.Services
         {
             try
             {
+                Console.WriteLine("========== LOGIN ==========");
+
+                var email = model.Email.Trim().ToLower();
+
+                Console.WriteLine($"Email Entered: {email}");
+                Console.WriteLine($"Password Length: {model.Password.Length}");
+
+                // Check if the user's profile exists first
+                var existingUser = await _supabase.Client
+                    .From<AppUser>()
+                    .Where(x => x.Email == email)
+                    .Get();
+
+                Console.WriteLine($"Profiles Found: {existingUser.Models.Count}");
+
+                // Attempt Supabase login
                 var session = await _supabase.Client.Auth.SignIn(
-                    model.Email,
+                    email,
                     model.Password);
+
+                Console.WriteLine($"Session Null: {session == null}");
+                Console.WriteLine($"User Null: {session?.User == null}");
 
                 if (session?.User == null)
                 {
@@ -30,11 +49,16 @@ namespace HappyHearts_Draft.Services
                     };
                 }
 
-                // Look up the user's profile using the Supabase UserId
+                Console.WriteLine($"Supabase User ID: {session.User.Id}");
+                Console.WriteLine($"Supabase Email: {session.User.Email}");
+
+                // Get the user's profile from public.Users
                 var response = await _supabase.Client
                     .From<AppUser>()
                     .Where(x => x.UserId == session.User.Id)
                     .Get();
+
+                Console.WriteLine($"Matching Profiles: {response.Models.Count}");
 
                 var profile = response.Models.FirstOrDefault();
 
@@ -58,12 +82,26 @@ namespace HappyHearts_Draft.Services
                     Role = profile.Role
                 };
             }
-            catch (Exception ex)
+            catch (Supabase.Gotrue.Exceptions.GotrueException ex)
             {
+                Console.WriteLine("========== SUPABASE AUTH ERROR ==========");
+                Console.WriteLine(ex.Message);
+
                 return new AuthResult
                 {
                     Success = false,
-                    Message = ex.ToString()
+                    Message = ex.Message
+                };
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("========== GENERAL ERROR ==========");
+                Console.WriteLine(ex);
+
+                return new AuthResult
+                {
+                    Success = false,
+                    Message = ex.Message
                 };
             }
         }
@@ -92,16 +130,17 @@ namespace HappyHearts_Draft.Services
                     Email = model.Email,
                     Role = "Customer",
                     Newsletter = model.Newsletter,
-                    CreatedAt = DateTime.UtcNow
+                    Created_at = DateTime.UtcNow
                 };
 
                 try
                 {
+                    // Insert into public.Users
                     await _supabase.Client
                         .From<AppUser>()
                         .Insert(newUser);
 
-                    // Verify that the insert actually happened
+                    // Verify it was inserted
                     var verify = await _supabase.Client
                         .From<AppUser>()
                         .Where(x => x.UserId == session.User.Id)

@@ -216,5 +216,18 @@ namespace HappyHearts_Draft.Services
 
             return total;
         }
+
+
+        public async Task<int> GetCartCountAsync(string userId)
+        {
+            var cart = await GetActiveCartAsync(userId);
+
+            if (cart == null)
+                return 0;
+
+            var items = await GetCartItemsAsync(cart.CartId);
+
+            return items.Sum(x => x.Quantity);
+        }
     }
 }
