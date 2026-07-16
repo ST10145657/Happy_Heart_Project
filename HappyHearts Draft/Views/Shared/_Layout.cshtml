@@ -11,6 +11,9 @@
     <link rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
     <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+    <link rel="icon"
+          type="image/jpeg"
+          href="~/images/Logo.jpeg" />
 </head>
 <body>
     <header>
@@ -72,45 +75,69 @@
                                 <li>
                                     <a class="dropdown-item"
                                        asp-controller="Species"
-                                       asp-action="Dogs"
-                                       asp-route-type="dogs">
-                                        Dogs🐶
+                                       asp-action="Fish">
+                                        🐠 Fish
                                     </a>
                                 </li>
 
                                 <li>
                                     <a class="dropdown-item"
                                        asp-controller="Species"
-                                       asp-action="Cats">
-                                        Cats🐱
+                                       asp-action="Hamsters">
+                                        🐹 Hamsters
                                     </a>
                                 </li>
 
                                 <li>
                                     <a class="dropdown-item"
                                        asp-controller="Species"
-                                       asp-action="Fish"
-                                       asp-route-type="fish">
-                                        Fish 🐠
+                                       asp-action="Bunnies">
+                                        🐇 Bunnies
                                     </a>
                                 </li>
 
+                                <li><hr class="dropdown-divider"></li>
+
                                 <li>
-                                    <a class="dropdown-item"
-                                       asp-controller="Species"
-                                       asp-action="Birds"
-                                       asp-route-type="birds">
-                                        Birds 🐦
-                                    </a>
+
+                                    <span class="dropdown-item text-muted">
+
+                                        🐶 Dogs
+
+                                        <span class="badge bg-secondary float-end">
+                                            Coming Soon
+                                        </span>
+
+                                    </span>
+
                                 </li>
 
                                 <li>
-                                    <a class="dropdown-item"
-                                       asp-controller="Species"
-                                       asp-action="Bunnies"
-                                       asp-route-type="Bunnies">
-                                        Bunnies🐹
-                                    </a>
+
+                                    <span class="dropdown-item text-muted">
+
+                                        🐱 Cats
+
+                                        <span class="badge bg-secondary float-end">
+                                            Coming Soon
+                                        </span>
+
+                                    </span>
+
+                                </li>
+
+                                <li>
+
+                                    <span class="dropdown-item text-muted">
+
+                                        🐦 Birds
+
+                                        <span class="badge bg-secondary float-end">
+                                            Coming Soon
+                                        </span>
+
+                                    </span>
+
                                 </li>
 
                             </ul>
@@ -139,11 +166,6 @@
                             </a>
                         </li>
 
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="fa-regular fa-heart"></i>
-                            </a>
-                        </li>
 
                         <li class="nav-item">
                             <a asp-controller="Cart"
@@ -182,6 +204,7 @@
                                 </a>
                             </li>
                         }
+
                         else
                         {
                             <li class="nav-item ms-3">
@@ -194,6 +217,23 @@
 
                                 </a>
                             </li>
+
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <li class="nav-item ms-2">
+
+                                    <a asp-controller="Admin"
+                                       asp-action="Dashboard"
+                                       class="btn btn-danger rounded-pill">
+
+                                        <i class="fa-solid fa-user-shield"></i>
+
+                                        Admin
+
+                                    </a>
+
+                                </li>
+                            }
 
                             <li class="nav-item ms-2">
                                 <a asp-controller="Account"

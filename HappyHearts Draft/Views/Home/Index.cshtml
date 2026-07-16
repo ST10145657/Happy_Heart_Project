@@ -3,77 +3,93 @@
 }
 
 <!-- Hero Section -->
-<section class="hero-section d-flex align-items-center text-center">
+<section class="hero-section text-center text-white d-flex align-items-center">
 
-    <div class="mt-4">
+    <div class="container" data-aos="fade-up">
+
+        <h1 class="display-3 fw-bold">
+            Welcome to Happy Hearts Pet Store
+        </h1>
+
+        <p class="lead mt-3 mb-4">
+
+            Discover healthy pets, premium accessories and everything
+            your furry (or finned) friend needs.
+
+        </p>
 
         <a asp-controller="Shop"
            asp-action="Index"
-           class="btn btn-primary btn-lg me-3">
+           class="btn btn-primary btn-lg rounded-pill px-5 me-3">
 
-            Shop For Your Pet🛒
+            Shop Now
 
         </a>
 
         <a asp-controller="Species"
            asp-action="Index"
-           class="btn btn-outline-light btn-lg">
+           class="btn btn-outline-light btn-lg rounded-pill px-5">
 
-            Browse Species
+            Browse Pets
 
         </a>
 
     </div>
 
 </section>
-<!-- ===========================
-     Featured Pets
-=========================== -->
 
-<section class="container my-5">
+
+<!-- Featured Pets -->
+
+<section class="container py-5">
 
     <div class="text-center mb-5">
 
         <h2 class="fw-bold">
+
             Featured Pets
+
         </h2>
 
         <p class="text-muted">
-            Meet some of our wonderful companions looking for a forever home.
+
+            Meet some of our favourite companions.
+
         </p>
 
     </div>
 
     <div class="row g-4">
 
-        <!-- Card 1 -->
+        <!-- Fish -->
 
-        <div class="col-lg-4" data-aos="fade-up">
+        <div class="col-lg-4">
 
-            <div class="card h-100">
+            <div class="card shadow h-100 border-0">
 
-                <img src="~/images/pets/Dog.jpg"
-                     class="card-img-top"
-                     alt="Dog">
+                <img src="~/images/Fish/Ballon Mollies.jpg"
+                     class="card-img-top featured-image">
 
-                <div class="card-body">
+                <div class="card-body text-center">
 
-                    <h4>Buddy</h4>
+                    <span class="badge bg-success mb-3">
+                        R60
+                    </span>
+
+                    <h4>Goldfish</h4>
 
                     <p class="text-muted">
-                        Labrador Retriever
+
+                        Beginner friendly freshwater fish perfect
+                        for any aquarium.
+
                     </p>
 
-                    <p>📅 2 Years</p>
+                    <a asp-controller="Species"
+                       asp-action="Fish"
+                       class="btn btn-primary">
 
-                    <p>♂ Male</p>
-
-                    <p>❤️ Healthy</p>
-
-                    <a href="#"
-                       class="btn btn-primary w-100">
-
-                        Meet Me 
+                        View Fish
 
                     </a>
 
@@ -83,34 +99,36 @@
 
         </div>
 
-        <!-- Card 2 -->
 
-        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="150">
+        <!-- Hamster -->
 
-            <div class="card h-100">
+        <div class="col-lg-4">
 
-                <img src="~/images/pets/CAt.jpg"
-                     class="card-img-top"
-                     alt="Cat">
+            <div class="card shadow h-100 border-0">
 
-                <div class="card-body">
+                <img src="~/images/hamster/Hamster 2.jpg"
+                     class="card-img-top featured-image">
 
-                    <h4>Luna</h4>
+                <div class="card-body text-center">
+
+                    <span class="badge bg-success mb-3">
+                        R250
+                    </span>
+
+                    <h4>Syrian Hamster</h4>
 
                     <p class="text-muted">
-                        Persian Cat
+
+                        Friendly, playful and perfect for first-time
+                        pet owners.
+
                     </p>
 
-                    <p>📅 1 Year</p>
+                    <a asp-controller="Species"
+                       asp-action="Hamsters"
+                       class="btn btn-primary">
 
-                    <p>♀ Female</p>
-
-                    <p>❤️ Healthy</p>
-
-                    <a href="#"
-                       class="btn btn-primary w-100">
-
-                        Meet Me 
+                        View Hamsters
 
                     </a>
 
@@ -120,40 +138,222 @@
 
         </div>
 
-        <!-- Card 3 -->
 
-        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+        <!-- Bunny -->
 
-            <div class="card h-100">
+        <div class="col-lg-4">
 
-                <img src="~/images/pets/Fish.jpg"
-                     class="card-img-top"
-                     alt="Fish">
+            <div class="card shadow h-100 border-0">
 
-                <div class="card-body">
+                <img src="~/images/Bunnies/Brown Bunny.jpg"
+                     class="card-img-top featured-image">
 
-                    <h4>Nemo</h4>
+                <div class="card-body text-center">
+
+                    <span class="badge bg-success mb-3">
+                        R550
+                    </span>
+
+                    <h4>Holland Lop</h4>
 
                     <p class="text-muted">
-                        Clownfish
+
+                        Gentle indoor bunny with adorable floppy ears.
+
                     </p>
 
-                    <p>🌊 Saltwater</p>
+                    <a asp-controller="Species"
+                       asp-action="Bunnies"
+                       class="btn btn-primary">
 
-                    <p>📅 1 Year</p>
-
-                    <p>❤️ Healthy</p>
-
-                    <a href="#"
-                       class="btn btn-primary w-100">
-
-                       Meet Me 
+                        View Bunnies
 
                     </a>
 
                 </div>
 
             </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- Featured Accessories -->
+
+<section class="bg-light py-5">
+
+    <div class="container">
+
+        <div class="text-center mb-5">
+
+            <h2 class="fw-bold">
+
+                Featured Accessories
+
+            </h2>
+
+            <p class="text-muted">
+
+                Everything your pet needs.
+
+            </p>
+
+        </div>
+
+        <div class="row g-4">
+
+            <div class="col-md-4">
+
+                <div class="card shadow-sm text-center">
+
+                    <img src="~/images/shop/net.jpeg"
+                         class="card-img-top featured-image">
+
+                    <div class="card-body">
+
+                        <h5>Small Fish Net</h5>
+
+                        <h4 class="text-success">
+                            R40
+                        </h4>
+
+                        <a asp-controller="Shop"
+                           asp-action="Index"
+                           class="btn btn-success">
+
+                            Shop Now
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="card shadow-sm text-center">
+
+                    <img src="~/images/shop/stones.jpeg"
+                         class="card-img-top featured-image">
+
+                    <div class="card-body">
+
+                        <h5>Aquarium Stones</h5>
+
+                        <h4 class="text-success">
+                            R40
+                        </h4>
+
+                        <a asp-controller="Shop"
+                           asp-action="Index"
+                           class="btn btn-success">
+
+                            Shop Now
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="card shadow-sm text-center">
+
+                    <img src="~/images/shop/pump102.jpeg"
+                         class="card-img-top featured-image">
+
+                    <div class="card-body">
+
+                        <h5>Fish Pump</h5>
+
+                        <h4 class="text-success">
+                            R250
+                        </h4>
+
+                        <a asp-controller="Shop"
+                           asp-action="Index"
+                           class="btn btn-success">
+
+                            Shop Now
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- Why Choose Us -->
+
+<section class="container py-5">
+
+    <div class="text-center mb-5">
+
+        <h2 class="fw-bold">
+
+            Why Shop With Happy Hearts?
+
+        </h2>
+
+    </div>
+
+    <div class="row text-center">
+
+        <div class="col-md-3">
+
+            <i class="fa-solid fa-fish fa-3x text-primary mb-3"></i>
+
+            <h5>Healthy Pets</h5>
+
+            <p>We care for every pet before they find a new home.</p>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <i class="fa-solid fa-box-open fa-3x text-primary mb-3"></i>
+
+            <h5>Quality Products</h5>
+
+            <p>Only trusted products for your pets.</p>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <i class="fa-solid fa-heart fa-3x text-primary mb-3"></i>
+
+            <h5>Friendly Service</h5>
+
+            <p>Helping you choose the perfect companion.</p>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <i class="fa-solid fa-truck fa-3x text-primary mb-3"></i>
+
+            <h5>Growing Every Day</h5>
+
+            <p>New pets and products arriving regularly.</p>
 
         </div>
 

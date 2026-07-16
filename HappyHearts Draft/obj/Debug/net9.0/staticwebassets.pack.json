@@ -33,6 +33,14 @@
       "PackagePath": "staticwebassets\\images\\BackGround\\FishLayoutPic.jpg"
     },
     {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Bunnies\\Brown Bunny.jpg",
+      "PackagePath": "staticwebassets\\images\\Bunnies\\Brown Bunny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Bunnies\\White Bunny.jpg",
+      "PackagePath": "staticwebassets\\images\\Bunnies\\White Bunny.jpg"
+    },
+    {
       "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Ballon Mollies.jpg",
       "PackagePath": "staticwebassets\\images\\Fish\\Ballon Mollies.jpg"
     },
@@ -41,8 +49,8 @@
       "PackagePath": "staticwebassets\\images\\Fish\\Black Widow Tetra.jpg"
     },
     {
-      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra .jpg",
-      "PackagePath": "staticwebassets\\images\\Fish\\Cardinal Tetra .jpg"
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra.jpg",
+      "PackagePath": "staticwebassets\\images\\Fish\\Cardinal Tetra.jpg"
     },
     {
       "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Ember Tetra.jpg",
@@ -117,6 +125,14 @@
       "PackagePath": "staticwebassets\\images\\cats\\cat.webp"
     },
     {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\hamster\\Hamster 1.webp",
+      "PackagePath": "staticwebassets\\images\\hamster\\Hamster 1.webp"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\hamster\\Hamster 2.jpg",
+      "PackagePath": "staticwebassets\\images\\hamster\\Hamster 2.jpg"
+    },
+    {
       "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\pets\\Border.jpg",
       "PackagePath": "staticwebassets\\images\\pets\\Border.jpg"
     },
@@ -165,6 +181,14 @@
       "PackagePath": "staticwebassets\\images\\shop\\DogLeash.jpg"
     },
     {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\Gravel Cleaner1.jpeg",
+      "PackagePath": "staticwebassets\\images\\shop\\Gravel Cleaner1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\Gravel Cleaner2.jpeg",
+      "PackagePath": "staticwebassets\\images\\shop\\Gravel Cleaner2.jpeg"
+    },
+    {
       "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\StarterKit.jpeg",
       "PackagePath": "staticwebassets\\images\\shop\\StarterKit.jpeg"
     },
@@ -187,6 +211,22 @@
     {
       "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump1.jpeg",
       "PackagePath": "staticwebassets\\images\\shop\\pump1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump102.jpeg",
+      "PackagePath": "staticwebassets\\images\\shop\\pump102.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump103.jpeg",
+      "PackagePath": "staticwebassets\\images\\shop\\pump103.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump105.jpeg",
+      "PackagePath": "staticwebassets\\images\\shop\\pump105.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\stones.jpeg",
+      "PackagePath": "staticwebassets\\images\\shop\\stones.jpeg"
     },
     {
       "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\tank.jpeg",

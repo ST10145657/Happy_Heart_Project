@@ -36,6 +36,7 @@ namespace HappyHearts_Draft
             builder.Services.AddScoped<ICartService, CartService>();
             builder.Services.AddScoped<OrderService>();
             builder.Services.AddScoped<IAuthService, AuthService>();
+            builder.Services.AddScoped<IPetService, PetService>();
             builder.Services.AddScoped<EmailService>();
             builder.Services.AddScoped<NewsletterService>();
 

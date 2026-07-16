@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3EdX3bSfbTxaAAd91jHgpaCczvea3MJ0MEK+XUHcM+Y=",
+  "Hash": "GwzXUuya7hofXPT4kivo06DelORLKhpwgAylL3ffVto=",
   "Source": "HappyHearts Draft",
   "BasePath": "_content/HappyHearts Draft",
   "Mode": "Default",
@@ -1109,12 +1109,12 @@
       "OriginalItemSpec": "C:\\Users\\mnqob\\.nuget\\packages\\sweetalert2\\1.0.1\\staticwebassets\\bulmaTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-w67e4dou2i.gz",
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-a1zr4uv0eu.gz",
       "SourceId": "HappyHearts Draft",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HappyHearts Draft",
-      "RelativePath": "css/site#[.{fingerprint=w67e4dou2i}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=a1zr4uv0eu}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1123,8 +1123,8 @@
       "RelatedAsset": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "je8e2gnn7t",
-      "Integrity": "9SvLwGJmGQGTlXCqY2So9h6+s93PhJq3/uQx7Biyr3Q=",
+      "Fingerprint": "3hk9nxqjmo",
+      "Integrity": "58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css"
@@ -2845,8 +2845,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "w67e4dou2i",
-      "Integrity": "6PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj+dP5a/KpFmE=",
+      "Fingerprint": "a1zr4uv0eu",
+      "Integrity": "HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3104,6 +3104,48 @@
       "OriginalItemSpec": "wwwroot\\images\\birds\\Lovebirds.jpg"
     },
     {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Bunnies\\Brown Bunny.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/Bunnies/Brown Bunny#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "loc97rdedq",
+      "Integrity": "i1R2vLM+33umfyGXwlctRlQeYC7QK0kT6kYv/m9RYsE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Bunnies\\Brown Bunny.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Bunnies\\White Bunny.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/Bunnies/White Bunny#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "js1b5rp7fb",
+      "Integrity": "LWHhDRLVp+7Ng+UVoATYX7uLX12l+Z57WE47MvSZYUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Bunnies\\White Bunny.jpg"
+    },
+    {
       "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cat.webp",
       "SourceId": "HappyHearts Draft",
       "SourceType": "Discovered",
@@ -3293,12 +3335,12 @@
       "OriginalItemSpec": "wwwroot\\images\\Fish\\Black Widow Tetra.jpg"
     },
     {
-      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra .jpg",
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra.jpg",
       "SourceId": "HappyHearts Draft",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
       "BasePath": "_content/HappyHearts Draft",
-      "RelativePath": "images/Fish/Cardinal Tetra #[.{fingerprint}]?.jpg",
+      "RelativePath": "images/Fish/Cardinal Tetra#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3311,7 +3353,7 @@
       "Integrity": "HYvy4JvUX96/6KWQiccQ70dR0mSugRjaLId7RlEbRtA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Fish\\Cardinal Tetra .jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Fish\\Cardinal Tetra.jpg"
     },
     {
       "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Ember Tetra.jpg",
@@ -3396,6 +3438,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Fish\\Platies.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\hamster\\Hamster 1.webp",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/hamster/Hamster 1#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e8irnjkufc",
+      "Integrity": "8gcNbGdqlCnISS/c9EgZAFSi2aq7QIa/XnQ+1a2d2io=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hamster\\Hamster 1.webp"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\hamster\\Hamster 2.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/hamster/Hamster 2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "28x4he0s59",
+      "Integrity": "ztVrYI7LS0zA4DxyWqtbziLV1CUwQyawxPCR/zB1+os=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hamster\\Hamster 2.jpg"
     },
     {
       "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Logo.jpeg",
@@ -3692,6 +3776,48 @@
       "OriginalItemSpec": "wwwroot\\images\\shop\\filter .jpeg"
     },
     {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\Gravel Cleaner1.jpeg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/shop/Gravel Cleaner1#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cvti1ydk37",
+      "Integrity": "SF/vHG3/6gSrHryqwujou5uS2EljxgMYqumQ4VrkOnQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shop\\Gravel Cleaner1.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\Gravel Cleaner2.jpeg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/shop/Gravel Cleaner2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wl2lx17mbp",
+      "Integrity": "jKqGZT9lsJ7w2IwpXnMrH5dR9kQcN6ZuZ8i6/dJVGgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shop\\Gravel Cleaner2.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\heater.jpeg",
       "SourceId": "HappyHearts Draft",
       "SourceType": "Discovered",
@@ -3776,6 +3902,69 @@
       "OriginalItemSpec": "wwwroot\\images\\shop\\pump1.jpeg"
     },
     {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump102.jpeg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/shop/pump102#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y7mudr91ue",
+      "Integrity": "/hTue+iODup/Oq2li1ZsR5/OlnRn9Mt0DZxfijwkohE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shop\\pump102.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump103.jpeg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/shop/pump103#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c1xncjnqjs",
+      "Integrity": "AK++la5T7G0qtgHUT3lHUkqN3E6BJ6PWTXepPPYbu4A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shop\\pump103.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump105.jpeg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/shop/pump105#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ww3tn0f3gx",
+      "Integrity": "8B9NfpLd0U2QhdC77b2S0/abKV9lRSwpdTLwhBsRFm8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shop\\pump105.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\StarterKit.jpeg",
       "SourceId": "HappyHearts Draft",
       "SourceType": "Discovered",
@@ -3795,6 +3984,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\shop\\StarterKit.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\stones.jpeg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/shop/stones#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hrla1kp72n",
+      "Integrity": "U7I/SXAEsX+RiLAtH5K65jxc4eCVkHgXuyClZtiMVsA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shop\\stones.jpeg"
     },
     {
       "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\tank.jpeg",
@@ -9801,13 +10011,13 @@
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-w67e4dou2i.gz",
+      "Route": "css/site.a1zr4uv0eu.css",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-a1zr4uv0eu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000513347023"
+          "Quality": "0.000512557663"
         }
       ],
       "ResponseHeaders": [
@@ -9817,19 +10027,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1947"
+          "Value": "1950"
         },
         {
           "Name": "ETag",
-          "Value": "\"9SvLwGJmGQGTlXCqY2So9h6+s93PhJq3/uQx7Biyr3Q=\""
+          "Value": "\"58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jul 2026 19:15:31 GMT"
+          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -9845,18 +10055,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj+dP5a/KpFmE=\""
+          "Value": "W/\"HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "a1zr4uv0eu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-6PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj+dP5a/KpFmE="
+          "Value": "sha256-HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.a1zr4uv0eu.css",
       "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9866,7 +10084,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8669"
+          "Value": "8676"
         },
         {
           "Name": "Content-Type",
@@ -9874,121 +10092,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj+dP5a/KpFmE=\""
+          "Value": "\"HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jul 2026 19:15:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj+dP5a/KpFmE="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-w67e4dou2i.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1947"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9SvLwGJmGQGTlXCqY2So9h6+s93PhJq3/uQx7Biyr3Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 13 Jul 2026 19:15:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9SvLwGJmGQGTlXCqY2So9h6+s93PhJq3/uQx7Biyr3Q="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.w67e4dou2i.css",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-w67e4dou2i.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000513347023"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1947"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9SvLwGJmGQGTlXCqY2So9h6+s93PhJq3/uQx7Biyr3Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 13 Jul 2026 19:15:31 GMT"
+          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"6PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj+dP5a/KpFmE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "w67e4dou2i"
+          "Value": "a1zr4uv0eu"
         },
         {
           "Name": "label",
@@ -9996,13 +10114,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj+dP5a/KpFmE="
+          "Value": "sha256-HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc="
         }
       ]
     },
     {
-      "Route": "css/site.w67e4dou2i.css",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
+      "Route": "css/site.a1zr4uv0eu.css.gz",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-a1zr4uv0eu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10011,7 +10129,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8669"
+          "Value": "1950"
         },
         {
           "Name": "Content-Type",
@@ -10019,56 +10137,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj+dP5a/KpFmE=\""
+          "Value": "\"58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jul 2026 19:15:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "w67e4dou2i"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6PNpDyGL3DBWLt0gOCEUGIBn9/b0DAaj+dP5a/KpFmE="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.w67e4dou2i.css.gz",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-w67e4dou2i.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1947"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9SvLwGJmGQGTlXCqY2So9h6+s93PhJq3/uQx7Biyr3Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 13 Jul 2026 19:15:31 GMT"
+          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10086,7 +10159,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "w67e4dou2i"
+          "Value": "a1zr4uv0eu"
         },
         {
           "Name": "label",
@@ -10094,7 +10167,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9SvLwGJmGQGTlXCqY2So9h6+s93PhJq3/uQx7Biyr3Q="
+          "Value": "sha256-58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-a1zr4uv0eu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000512557663"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1950"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-a1zr4uv0eu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc="
         }
       ]
     },
@@ -10421,7 +10631,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10474,7 +10684,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10511,7 +10721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10558,7 +10768,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10619,7 +10829,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10664,7 +10874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,7 +10929,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10780,7 +10990,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10825,7 +11035,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10880,7 +11090,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10933,7 +11143,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10970,7 +11180,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 06 Jul 2026 10:09:08 GMT"
+          "Value": "Thu, 16 Jul 2026 00:27:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11895,6 +12105,170 @@
       ]
     },
     {
+      "Route": "images/Bunnies/Brown Bunny.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Bunnies\\Brown Bunny.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i1R2vLM+33umfyGXwlctRlQeYC7QK0kT6kYv/m9RYsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i1R2vLM+33umfyGXwlctRlQeYC7QK0kT6kYv/m9RYsE="
+        }
+      ]
+    },
+    {
+      "Route": "images/Bunnies/Brown Bunny.loc97rdedq.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Bunnies\\Brown Bunny.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i1R2vLM+33umfyGXwlctRlQeYC7QK0kT6kYv/m9RYsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "loc97rdedq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Bunnies/Brown Bunny.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i1R2vLM+33umfyGXwlctRlQeYC7QK0kT6kYv/m9RYsE="
+        }
+      ]
+    },
+    {
+      "Route": "images/Bunnies/White Bunny.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Bunnies\\White Bunny.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LWHhDRLVp+7Ng+UVoATYX7uLX12l+Z57WE47MvSZYUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:38:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LWHhDRLVp+7Ng+UVoATYX7uLX12l+Z57WE47MvSZYUg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Bunnies/White Bunny.js1b5rp7fb.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Bunnies\\White Bunny.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LWHhDRLVp+7Ng+UVoATYX7uLX12l+Z57WE47MvSZYUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jul 2026 22:38:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "js1b5rp7fb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Bunnies/White Bunny.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LWHhDRLVp+7Ng+UVoATYX7uLX12l+Z57WE47MvSZYUg="
+        }
+      ]
+    },
+    {
       "Route": "images/cat.njwrkkypey.webp",
       "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\cat.webp",
       "Selectors": [],
@@ -12633,8 +13007,8 @@
       ]
     },
     {
-      "Route": "images/Fish/Cardinal Tetra .jpg",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra .jpg",
+      "Route": "images/Fish/Cardinal Tetra.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12670,8 +13044,8 @@
       ]
     },
     {
-      "Route": "images/Fish/Cardinal Tetra .vt36coz4in.jpg",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra .jpg",
+      "Route": "images/Fish/Cardinal Tetra.vt36coz4in.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\Fish\\Cardinal Tetra.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12706,7 +13080,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/Fish/Cardinal Tetra .jpg"
+          "Value": "images/Fish/Cardinal Tetra.jpg"
         },
         {
           "Name": "integrity",
@@ -13039,6 +13413,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-Sc4eosz5FHcRjH2fstk3Ise4eVMoVOmWMGqz1OdheYI="
+        }
+      ]
+    },
+    {
+      "Route": "images/hamster/Hamster 1.e8irnjkufc.webp",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\hamster\\Hamster 1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8gcNbGdqlCnISS/c9EgZAFSi2aq7QIa/XnQ+1a2d2io=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jul 2026 09:17:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e8irnjkufc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hamster/Hamster 1.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8gcNbGdqlCnISS/c9EgZAFSi2aq7QIa/XnQ+1a2d2io="
+        }
+      ]
+    },
+    {
+      "Route": "images/hamster/Hamster 1.webp",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\hamster\\Hamster 1.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8gcNbGdqlCnISS/c9EgZAFSi2aq7QIa/XnQ+1a2d2io=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jul 2026 09:17:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8gcNbGdqlCnISS/c9EgZAFSi2aq7QIa/XnQ+1a2d2io="
+        }
+      ]
+    },
+    {
+      "Route": "images/hamster/Hamster 2.28x4he0s59.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\hamster\\Hamster 2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ztVrYI7LS0zA4DxyWqtbziLV1CUwQyawxPCR/zB1+os=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jul 2026 09:18:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "28x4he0s59"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hamster/Hamster 2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ztVrYI7LS0zA4DxyWqtbziLV1CUwQyawxPCR/zB1+os="
+        }
+      ]
+    },
+    {
+      "Route": "images/hamster/Hamster 2.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\hamster\\Hamster 2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ztVrYI7LS0zA4DxyWqtbziLV1CUwQyawxPCR/zB1+os=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jul 2026 09:18:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ztVrYI7LS0zA4DxyWqtbziLV1CUwQyawxPCR/zB1+os="
         }
       ]
     },
@@ -14191,6 +14729,170 @@
       ]
     },
     {
+      "Route": "images/shop/Gravel Cleaner1.cvti1ydk37.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\Gravel Cleaner1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SF/vHG3/6gSrHryqwujou5uS2EljxgMYqumQ4VrkOnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:11:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cvti1ydk37"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shop/Gravel Cleaner1.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SF/vHG3/6gSrHryqwujou5uS2EljxgMYqumQ4VrkOnQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/Gravel Cleaner1.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\Gravel Cleaner1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SF/vHG3/6gSrHryqwujou5uS2EljxgMYqumQ4VrkOnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:11:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SF/vHG3/6gSrHryqwujou5uS2EljxgMYqumQ4VrkOnQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/Gravel Cleaner2.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\Gravel Cleaner2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jKqGZT9lsJ7w2IwpXnMrH5dR9kQcN6ZuZ8i6/dJVGgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jKqGZT9lsJ7w2IwpXnMrH5dR9kQcN6ZuZ8i6/dJVGgA="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/Gravel Cleaner2.wl2lx17mbp.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\Gravel Cleaner2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jKqGZT9lsJ7w2IwpXnMrH5dR9kQcN6ZuZ8i6/dJVGgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wl2lx17mbp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shop/Gravel Cleaner2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jKqGZT9lsJ7w2IwpXnMrH5dR9kQcN6ZuZ8i6/dJVGgA="
+        }
+      ]
+    },
+    {
       "Route": "images/shop/heater.83a8lueb3y.jpeg",
       "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\heater.jpeg",
       "Selectors": [],
@@ -14519,6 +15221,252 @@
       ]
     },
     {
+      "Route": "images/shop/pump102.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump102.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/hTue+iODup/Oq2li1ZsR5/OlnRn9Mt0DZxfijwkohE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:13:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/hTue+iODup/Oq2li1ZsR5/OlnRn9Mt0DZxfijwkohE="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/pump102.y7mudr91ue.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump102.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/hTue+iODup/Oq2li1ZsR5/OlnRn9Mt0DZxfijwkohE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:13:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7mudr91ue"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shop/pump102.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/hTue+iODup/Oq2li1ZsR5/OlnRn9Mt0DZxfijwkohE="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/pump103.c1xncjnqjs.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump103.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AK++la5T7G0qtgHUT3lHUkqN3E6BJ6PWTXepPPYbu4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c1xncjnqjs"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shop/pump103.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AK++la5T7G0qtgHUT3lHUkqN3E6BJ6PWTXepPPYbu4A="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/pump103.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump103.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AK++la5T7G0qtgHUT3lHUkqN3E6BJ6PWTXepPPYbu4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:13:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AK++la5T7G0qtgHUT3lHUkqN3E6BJ6PWTXepPPYbu4A="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/pump105.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump105.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8B9NfpLd0U2QhdC77b2S0/abKV9lRSwpdTLwhBsRFm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8B9NfpLd0U2QhdC77b2S0/abKV9lRSwpdTLwhBsRFm8="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/pump105.ww3tn0f3gx.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\pump105.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8B9NfpLd0U2QhdC77b2S0/abKV9lRSwpdTLwhBsRFm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ww3tn0f3gx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shop/pump105.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8B9NfpLd0U2QhdC77b2S0/abKV9lRSwpdTLwhBsRFm8="
+        }
+      ]
+    },
+    {
       "Route": "images/shop/StarterKit.2e4jxtt34f.jpeg",
       "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\StarterKit.jpeg",
       "Selectors": [],
@@ -14597,6 +15545,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-+oFfBKBIOu1N7FBoCF6P7MnBwxie+ZE2a3VGIFcnpuY="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/stones.hrla1kp72n.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\stones.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U7I/SXAEsX+RiLAtH5K65jxc4eCVkHgXuyClZtiMVsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:08:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hrla1kp72n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shop/stones.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U7I/SXAEsX+RiLAtH5K65jxc4eCVkHgXuyClZtiMVsA="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/stones.jpeg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\stones.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "226939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U7I/SXAEsX+RiLAtH5K65jxc4eCVkHgXuyClZtiMVsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jul 2026 16:08:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U7I/SXAEsX+RiLAtH5K65jxc4eCVkHgXuyClZtiMVsA="
         }
       ]
     },

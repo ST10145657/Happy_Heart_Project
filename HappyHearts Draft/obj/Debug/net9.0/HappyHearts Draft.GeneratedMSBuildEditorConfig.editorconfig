@@ -44,6 +44,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mnqob/OneDrive/Desktop/HappyHearts Draft/HappyHearts Draft/Views/Admin/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mnqob/OneDrive/Desktop/HappyHearts Draft/HappyHearts Draft/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mnqob/OneDrive/Desktop/HappyHearts Draft/HappyHearts Draft/Views/Admin/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mnqob/OneDrive/Desktop/HappyHearts Draft/HappyHearts Draft/Views/Admin/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mnqob/OneDrive/Desktop/HappyHearts Draft/HappyHearts Draft/Views/Adopt/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -98,6 +114,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/mnqob/OneDrive/Desktop/HappyHearts Draft/HappyHearts Draft/Views/Species/Fish.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2llc1xGaXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mnqob/OneDrive/Desktop/HappyHearts Draft/HappyHearts Draft/Views/Species/Hamsters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2llc1xIYW1zdGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mnqob/OneDrive/Desktop/HappyHearts Draft/HappyHearts Draft/Views/Species/Index.cshtml]

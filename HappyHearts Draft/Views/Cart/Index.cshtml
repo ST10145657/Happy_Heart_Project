@@ -1,17 +1,240 @@
-﻿@{
+﻿@model List<HappyHearts_Draft.Models.ViewModels.CartItemViewModel>
+
+@{
     ViewData["Title"] = "Shopping Cart";
 }
 
 <div class="container py-5">
 
-    <h2>Your Shopping Cart</h2>
+    <h1 class="display-5 fw-bold mb-4">
+        <i class="fa-solid fa-cart-shopping"></i>
+        Shopping Cart
+    </h1>
 
-    <hr />
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info text-center p-5">
 
-    <div class="alert alert-info">
+            <h3>Your cart is currently empty.</h3>
 
-        Your cart is currently empty.
+            <p class="mb-4">
+                Browse our products and add something for your pets.
+            </p>
 
-    </div>
+            <a asp-controller="Shop"
+               asp-action="Index"
+               class="btn btn-primary btn-lg">
+
+                Continue Shopping
+
+            </a>
+
+        </div>
+    }
+    else
+    {
+        decimal total = 0;
+
+        @foreach (var item in Model)
+        {
+            total += item.Total;
+
+            <div class="card shadow-sm mb-4 border-0 rounded-4">
+
+                <div class="card-body">
+
+                    <div class="row align-items-center">
+
+                        <!-- Product Image -->
+
+                        <div class="col-md-2 text-center">
+
+                            <img src="~/images/shop/@item.ImageUrl"
+                                 class="img-fluid rounded"
+                                 style="max-height:120px;" />
+
+                        </div>
+
+                        <!-- Product Info -->
+
+                        <div class="col-md-4">
+
+                            <h4 class="fw-bold">
+                                @item.Name
+                            </h4>
+
+                            <p class="text-muted">
+                                Price:
+                                <strong>
+                                    R @item.Price.ToString("N2")
+                                </strong>
+                            </p>
+
+                        </div>
+
+                        <!-- Quantity -->
+
+                        <div class="col-md-3 text-center">
+
+                            <form asp-controller="Cart"
+                                  asp-action="UpdateQuantity"
+                                  method="post">
+
+                                <input type="hidden"
+                                       name="cartDetailId"
+                                       value="@item.CartDetailId" />
+
+                                <div class="input-group justify-content-center">
+
+                                    <button type="button"
+                                            class="btn btn-outline-secondary qty-minus">
+
+                                        -
+
+                                    </button>
+
+                                    <input class="form-control text-center qty-input"
+                                           style="max-width:70px;"
+                                           type="number"
+                                           min="1"
+                                           name="quantity"
+                                           value="@item.Quantity" />
+
+                                    <button type="button"
+                                            class="btn btn-outline-secondary qty-plus">
+
+                                        +
+
+                                    </button>
+
+                                </div>
+
+                                <button class="btn btn-warning mt-3">
+
+                                    Update
+
+                                </button>
+
+                            </form>
+
+                        </div>
+
+                        <!-- Subtotal -->
+
+                        <div class="col-md-2 text-center">
+
+                            <h5>
+
+                                R @item.Total.ToString("N2")
+
+                            </h5>
+
+                        </div>
+
+                        <!-- Remove -->
+
+                        <div class="col-md-1 text-center">
+
+                            <form asp-controller="Cart"
+                                  asp-action="RemoveItem"
+                                  method="post">
+
+                                <input type="hidden"
+                                       name="cartDetailId"
+                                       value="@item.CartDetailId" />
+
+                                <button class="btn btn-danger">
+
+                                    <i class="fa-solid fa-trash"></i>
+
+                                </button>
+
+                            </form>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        }
+
+        <!-- Order Summary -->
+
+        <div class="card shadow border-0 rounded-4">
+
+            <div class="card-body">
+
+                <div class="row">
+
+                    <div class="col-md-8">
+
+                        <h3>Total</h3>
+
+                    </div>
+
+                    <div class="col-md-4 text-end">
+
+                        <h2 class="text-success">
+
+                            R @total.ToString("N2")
+
+                        </h2>
+
+                    </div>
+
+                </div>
+
+                <div class="d-grid mt-4">
+
+                    <a asp-controller="Checkout"
+                       asp-action="Index"
+                       class="btn btn-success btn-lg">
+
+                        Proceed To Checkout
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+    }
 
 </div>
+
+@section Scripts
+{
+    <script>
+
+        document.querySelectorAll(".qty-plus").forEach(button => {
+
+            button.addEventListener("click", function(){
+
+                const input = this.parentElement.querySelector(".qty-input");
+
+                input.value = parseInt(input.value)+1;
+
+            });
+
+        });
+
+        document.querySelectorAll(".qty-minus").forEach(button => {
+
+            button.addEventListener("click", function(){
+
+                const input = this.parentElement.querySelector(".qty-input");
+
+                if(parseInt(input.value)>1)
+                {
+                    input.value=parseInt(input.value)-1;
+                }
+
+            });
+
+        });
+
+    </script>
+}

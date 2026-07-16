@@ -20,19 +20,7 @@
         </div>
     }
 
-    <div class="text-center mb-5" data-aos="fade-up">
 
-        <h1 class="display-4 fw-bold">
-            Pet Shop
-        </h1>
-
-        <p class="lead text-muted">
-            Everything your pet needs in one place.
-        </p>
-
-    </div>
-
-<div class="container py-5">
 
     <div class="text-center mb-5" data-aos="fade-up">
 
@@ -47,7 +35,6 @@
     </div>
 
     <!-- Search -->
-
     <div class="row justify-content-center mb-5">
 
         <div class="col-md-7">
@@ -68,9 +55,9 @@
 
                 <div class="col-lg-3">
 
-                        <img src="~/images/shop/@item.ImageUrl"
-                             class="img-fluid rounded"
-                             alt="@item.Name" />
+                    <img src="~/images/shop/@item.ImageUrl"
+                         class="img-fluid rounded"
+                         alt="@item.Name" />
 
                 </div>
 
@@ -83,19 +70,17 @@
                     <h3>@item.Name</h3>
 
                     <p class="text-muted">
-
                         @item.Description
-
                     </p>
 
                 </div>
 
+
+
                 <div class="col-lg-3 text-center">
 
                     <h2 class="text-success fw-bold">
-
-                            R @item.Price.ToString("N2")
-
+                        R @item.Price.ToString("N2")
                     </h2>
 
                     <form asp-controller="Cart"
@@ -106,12 +91,48 @@
                                name="productId"
                                value="@item.ProductId" />
 
-                        <input type="hidden"
-                               name="quantity"
-                               value="1" />
+                        <!-- Quantity Selector -->
+                        <div class="d-flex justify-content-center align-items-center my-3">
+
+                            <button type="button"
+                                    class="btn btn-outline-secondary qty-minus">
+                                -
+                            </button>
+
+                            <input type="number"
+                                   name="quantity"
+                                   value="1"
+                                   min="1"
+                                   class="form-control text-center mx-2 qty-input"
+                                   style="width:70px;" />
+
+                            <button type="button"
+                                    class="btn btn-outline-secondary qty-plus">
+                                +
+                            </button>
+
+                        </div>
+
+
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <a asp-action="Edit"
+                               asp-route-id="@item.ProductId"
+                               class="btn btn-warning w-100 mb-2">
+                                <i class="fa fa-pen"></i>
+                                Edit
+                            </a>
+
+                            <a asp-action="Delete"
+                               asp-route-id="@item.ProductId"
+                               class="btn btn-danger w-100">
+                                <i class="fa fa-trash"></i>
+                                Delete
+                            </a>
+                        }
 
                         <button type="submit"
-                                class="btn btn-success w-100 mt-3">
+                                class="btn btn-success w-100">
 
                             <i class="fa-solid fa-cart-shopping"></i>
 
@@ -129,3 +150,40 @@
     }
 
 </div>
+
+@section Scripts
+{
+    <script>
+
+        document.querySelectorAll(".qty-plus").forEach(button => {
+
+            button.addEventListener("click", function () {
+
+                const input = this.parentElement.querySelector(".qty-input");
+
+                input.value = parseInt(input.value) + 1;
+
+            });
+
+        });
+
+        document.querySelectorAll(".qty-minus").forEach(button => {
+
+            button.addEventListener("click", function () {
+
+                const input = this.parentElement.querySelector(".qty-input");
+
+                let value = parseInt(input.value);
+
+                if (value > 1) {
+
+                    input.value = value - 1;
+
+                }
+
+            });
+
+        });
+
+    </script>
+}

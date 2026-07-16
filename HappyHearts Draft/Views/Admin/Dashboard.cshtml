@@ -1,0 +1,134 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="container py-5">
+
+    <h1 class="mb-5">
+        Admin Dashboard
+    </h1>
+
+    <div class="row">
+
+        <div class="col-md-3 mb-4">
+
+            <div class="card shadow border-0 text-center">
+
+                <div class="card-body">
+
+                    <h5>Total Products</h5>
+
+                    <h2 class="text-primary">
+
+                        @ViewBag.TotalProducts
+
+                    </h2>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3 mb-4">
+
+            <div class="card shadow border-0 text-center">
+
+                <div class="card-body">
+
+                    <h5>Total Pets</h5>
+
+                    <h2 class="text-success">
+
+                        Coming Soon
+
+                    </h2>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3 mb-4">
+
+            <div class="card shadow border-0 text-center">
+
+                <div class="card-body">
+
+                    <h5>Total Customers</h5>
+
+                    <h2 class="text-warning">
+
+                        Coming Soon
+
+                    </h2>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3 mb-4">
+
+            <div class="card shadow border-0 text-center">
+
+                <div class="card-body">
+
+                    <h5>Orders</h5>
+
+                    <h2 class="text-danger">
+
+                        Coming Soon
+
+                    </h2>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <hr class="my-5" />
+
+    <div class="row">
+
+        <div class="col-lg-4">
+
+            <a asp-action="Products"
+               class="btn btn-primary w-100 p-4">
+
+                📦 Manage Products
+
+            </a>
+
+        </div>
+
+        <div class="col-lg-4">
+
+            <a href="#"
+               class="btn btn-success w-100 p-4">
+
+                🐶 Manage Pets
+
+            </a>
+
+        </div>
+
+        <div class="col-lg-4">
+
+            <a href="#"
+               class="btn btn-dark w-100 p-4">
+
+                👥 Manage Customers
+
+            </a>
+
+        </div>
+
+    </div>
+
+</div>

@@ -12,8 +12,8 @@ namespace HappyHearts_Draft.Models
         [Column("Name")]
         public string Name { get; set; } = string.Empty;
 
-        [Column("Species")]
-        public string Species { get; set; } = string.Empty;
+        [Column("SpeciesId")]
+        public long SpeciesId { get; set; }
 
         [Column("Breed")]
         public string Breed { get; set; } = string.Empty;
@@ -33,9 +33,6 @@ namespace HappyHearts_Draft.Models
         [Column("ImageUrl")]
         public string ImageUrl { get; set; } = string.Empty;
 
-        [Column("Available")]
-        public bool Available { get; set; }
-
         [Column("Colour")]
         public string? Colour { get; set; }
 
@@ -45,6 +42,9 @@ namespace HappyHearts_Draft.Models
         [Column("Temperament")]
         public string? Temperament { get; set; }
 
+        [Column("Temperature")]
+        public string? Temperature { get; set; }
+
         [Column("Lifespan")]
         public string? Lifespan { get; set; }
 
@@ -52,10 +52,12 @@ namespace HappyHearts_Draft.Models
         public string? Difficulty { get; set; }
 
         // Only used for fish
-        [Column("WaterType")]
-        public string? WaterType { get; set; }
+        [Column("Type")]
+        public string? Type { get; set; }
 
-        // Used to display featured pets on the Home page
+        [Column("IsAvailable")]
+        public bool IsAvailable { get; set; }
+
         [Column("IsFeatured")]
         public bool IsFeatured { get; set; }
     }

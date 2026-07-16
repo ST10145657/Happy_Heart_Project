@@ -30,5 +30,37 @@ namespace HappyHearts_Draft.Services
 
             return response.Models.FirstOrDefault();
         }
+
+        public async Task<Product> AddProductAsync(Product product)
+        {
+            var response = await _supabase.Client
+                .From<Product>()
+                .Insert(product);
+
+            return response.Models.First();
+        }
+
+        public async Task<Product> UpdateProductAsync(Product product)
+        {
+            var response = await _supabase.Client
+                .From<Product>()
+                .Update(product);
+
+            return response.Models.First();
+        }
+
+        public async Task<bool> DeleteProductAsync(long productId)
+        {
+            var product = await GetProductAsync(productId);
+
+            if (product == null)
+                return false;
+
+            await _supabase.Client
+                .From<Product>()
+                .Delete(product);
+
+            return true;
+        }
     }
 }

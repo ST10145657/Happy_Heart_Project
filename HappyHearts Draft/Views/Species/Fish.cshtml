@@ -1,16 +1,7 @@
-﻿@{
-    ViewData["Title"] = "Fish";
+﻿@model List<HappyHearts_Draft.Models.Pet>
 
-    var fishlist = new[]
-    {
-        new { Name = "Cardinal Tetra", Image = "Cardinal Tetra .jpg", Type = "Freshwater", Lifespan = "3-5 years", Temperature = "25-28 °C" ,  SuppySize = "+/- 2 cm", AdultSize = "4-5 cm", Difficulty = "Beginner", Price = "R20"},
-        new { Name = "Ember Tetra", Image = "Ember Tetra.jpg", Type = "Freshwater", Lifespan = "2-4 years",  Temperature = "24-28 °C" ,  SuppySize = "+/- 1,5-2 cm", AdultSize = "2-2,5 cm", Difficulty = "Beginner", Price = "R25"},
-        new { Name = "Pink Lemon Tetra", Image = "Pink Lemon Tetra.jpg", Type = "Freshwater", Lifespan = "3-5 years",  Temperature = "22-28 °C" ,  SuppySize = "+/- 2-3 cm", AdultSize = "4-5 cm", Difficulty = "Beginner", Price = "R18"},
-        new { Name = "Black Widow Tetra", Image = "Black Widow Tetra.jpg", Type = "Freshwater", Lifespan = "3-5 years",  Temperature = "22-28 °C", SuppySize = "+/- 2-3 cm", AdultSize = "5-6 cm", Difficulty = "Intermediate" , Price = "R30"},
-        new { Name = "Platies", Image = "Platies.jpg", Type = "Freshwater", Lifespan = "3-5 years",  Temperature = "22-26 °C" ,  SuppySize = "+/- 2-3 cm", AdultSize = "4-6 cm", Difficulty = "Beginner", Price = "R18"},
-        new { Name = "Guppies", Image = "Guppies.jpg", Type = "Freshwater", Lifespan = "2-3 years",  Temperature = "22-28 °C" ,  SuppySize = "+/- 2-3 cm", AdultSize = "3-6 cm", Difficulty = "Intermediate", Price = "R15"},
-        new { Name = "Ballon Mollies (Assorted)", Image = "Ballon Mollies.jpg", Type = "Freshwater", Lifespan = "3-5 years",  Temperature = "24-28 °C", SuppySize = "+/- 3-4 cm", AdultSize = "6-10 cm", Difficulty = "Beginner", Price = "R28"},
-    };
+@{
+    ViewData["Title"] = "Fish";
 }
 
 <div class="fish-page">
@@ -46,13 +37,13 @@
     </div>
     <div class="row g-4">
 
-        @foreach (var fish in fishlist)
+        @foreach (var fish in Model)
         {
             <div class="col-lg-4 col-md-6" data-aos="fade-up">
 
                 <div class="card h-100">
 
-                    <img src="~/images/fish/@fish.Image"
+                    <img src="~/images/fish/@fish.ImageUrl"
                          class="card-img-top"
                          alt="@fish.Name" />
 
@@ -66,9 +57,9 @@
 
                         <p><strong> Type:</strong> @fish.Type</p>
 
-                        <p><strong> Adult Size:</strong> @fish.AdultSize</p>
+                       
 
-                        <p><strong> Tank Size:</strong> @fish.SuppySize</p>
+                      
 
                         <p><strong> Temperature:</strong> @fish.Temperature</p>
 
@@ -94,11 +85,24 @@
 
                         <p><strong> Price :</strong> @fish.Price</p>
 
-                        <button class="btn btn-primary w-100">
+                        <form asp-controller="Cart"
+                              asp-action="AddPet"
+                              method="post">
 
-                            Adopt
+                            <input type="hidden"
+                                   name="petId"
+                                   value="@fish.PetId" />
 
-                        </button>
+                            <input type="hidden"
+                                   name="quantity"
+                                   value="1" />
+
+                            <button class="btn btn-success w-100">
+                                <i class="fa-solid fa-cart-shopping"></i>
+                                Add To Cart
+                            </button>
+
+                        </form>
 
                     </div>
 
@@ -110,3 +114,33 @@
     </div>
 
 </div>
+
+<script>
+
+    document.querySelectorAll(".plus-btn").forEach(button=>{
+
+    button.addEventListener("click",function(){
+
+    let input=this.parentElement.querySelector(".quantity-input");
+
+    input.value=parseInt(input.value)+1;
+
+    });
+
+    });
+
+    document.querySelectorAll(".minus-btn").forEach(button=>{
+
+    button.addEventListener("click",function(){
+
+    let input=this.parentElement.querySelector(".quantity-input");
+
+    if(parseInt(input.value)>1)
+
+    input.value=parseInt(input.value)-1;
+
+    });
+
+    });
+
+</script>

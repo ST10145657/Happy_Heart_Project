@@ -1,5 +1,6 @@
 ﻿using HappyHearts_Draft.Interfaces;
 using HappyHearts_Draft.Models;
+using HappyHearts_Draft.Models.ViewModels;
 
 namespace HappyHearts_Draft.Services
 {
@@ -149,9 +150,12 @@ namespace HappyHearts_Draft.Services
                     Price = pet.Price
                 };
 
-                await _supabase.Client
-                    .From<CartDetails>()
-                    .Insert(detail);
+                Console.WriteLine($"CartId: {detail.CartId}");
+                Console.WriteLine($"PetId: {detail.PetId}");
+                Console.WriteLine($"Quantity: {detail.Quantity}");
+                Console.WriteLine($"Price: {detail.Price}");
+
+                return false;
             }
 
             cart.UpdatedAt = DateTime.UtcNow;
@@ -228,6 +232,41 @@ namespace HappyHearts_Draft.Services
             var items = await GetCartItemsAsync(cart.CartId);
 
             return items.Sum(x => x.Quantity);
+        }
+
+        public async Task<List<CartItemViewModel>> GetCartViewAsync(string userId)
+        {
+            var cart = await GetActiveCartAsync(userId);
+
+            if (cart == null)
+                return new List<CartItemViewModel>();
+
+            var details = await GetCartItemsAsync(cart.CartId);
+
+            var list = new List<CartItemViewModel>();
+
+            foreach (var item in details)
+            {
+                if (item.ProductId != null)
+                {
+                    var product = await _supabase.Client
+                        .From<Product>()
+                        .Where(x => x.ProductId == item.ProductId)
+                        .Single();
+
+                    list.Add(new CartItemViewModel
+                    {
+                        CartDetailId = item.CartDetailId,
+                        ProductId = item.ProductId,
+                        Name = product.Name,
+                        ImageUrl = product.ImageUrl,
+                        Quantity = item.Quantity,
+                        Price = item.Price
+                    });
+                }
+            }
+
+            return list;
         }
     }
 }

@@ -1,0 +1,146 @@
+﻿@model List<HappyHearts_Draft.Models.Pet>
+
+@{
+    ViewData["Title"] = "Fish";
+}
+
+<div class="fish-page">
+
+    <div class="fish-hero d-flex align-items-center justify-content-center text-center">
+
+        <div class="hero-content">
+
+            <h1 class="display-3 fw-bold text-white">
+                Fish Species
+            </h1>
+
+            <p class="lead text-white">
+                Explore freshwater and saltwater fish and learn how to care for them.
+            </p>
+
+        </div>
+
+    </div>
+
+    <!-- Search -->
+    <div class="row justify-content-center mb-5">
+
+        <div class="col-md-6">
+
+            <input type="text"
+                   id="FishSearch"
+                   class="form-control form-control-lg"
+                   placeholder="🔍 Search types of Fish..." />
+
+        </div>
+
+    </div>
+    <div class="row g-4">
+
+        @foreach (var fish in Model)
+        {
+            <div class="col-lg-4 col-md-6" data-aos="fade-up">
+
+                <div class="card h-100">
+
+                    <img src="~/images/fish/@fish.ImageUrl"
+                         class="card-img-top"
+                         alt="@fish.Name" />
+
+                    <div class="card-body">
+
+                        <h4 class="fw-bold">
+                            @fish.Name
+                        </h4>
+
+                        <hr />
+
+                        <p><strong> Type:</strong> @fish.Type</p>
+
+
+
+
+
+                        <p><strong> Temperature:</strong> @fish.Temperature</p>
+
+                        <p><strong> Lifespan:</strong> @fish.Lifespan</p>
+
+                        <p>
+                            <strong> Difficulty:</strong>
+
+                            @if (fish.Difficulty == "Beginner")
+                            {
+                                <span class="badge bg-success">Beginner</span>
+                            }
+                            else if (fish.Difficulty == "Intermediate")
+                            {
+                                <span class="badge bg-warning text-dark">Intermediate</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-danger">Advanced</span>
+                            }
+
+                        </p>
+
+                        <p><strong> Price :</strong> @fish.Price</p>
+
+                        <form asp-controller="Cart"
+                              asp-action="AddPet"
+                              method="post">
+
+                            <input type="hidden"
+                                   name="petId"
+                                   value="@fish.PetId" />
+
+                            <input type="hidden"
+                                   name="quantity"
+                                   value="1" />
+
+                            <button class="btn btn-success w-100">
+                                <i class="fa-solid fa-cart-shopping"></i>
+                                Add To Cart
+                            </button>
+
+                        </form>
+
+                    </div>
+
+                </div>
+
+            </div>
+        }
+
+    </div>
+
+</div>
+
+<script>
+
+    document.querySelectorAll(".plus-btn").forEach(button=>{
+
+    button.addEventListener("click",function(){
+
+    let input=this.parentElement.querySelector(".quantity-input");
+
+    input.value=parseInt(input.value)+1;
+
+    });
+
+    });
+
+    document.querySelectorAll(".minus-btn").forEach(button=>{
+
+    button.addEventListener("click",function(){
+
+    let input=this.parentElement.querySelector(".quantity-input");
+
+    if(parseInt(input.value)>1)
+
+    input.value=parseInt(input.value)-1;
+
+    });
+
+    });
+
+</script>

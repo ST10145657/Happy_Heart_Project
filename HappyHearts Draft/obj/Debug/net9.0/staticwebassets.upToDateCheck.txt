@@ -73,6 +73,8 @@ wwwroot\images\birds\Canaries.jpg
 wwwroot\images\birds\Cockatiels.jpg
 wwwroot\images\birds\Indian Ringneck Parakeets.jpg
 wwwroot\images\birds\Lovebirds.jpg
+wwwroot\images\Bunnies\Brown Bunny.jpg
+wwwroot\images\Bunnies\White Bunny.jpg
 wwwroot\images\cat.webp
 wwwroot\images\cats\Brown Cat.jpg
 wwwroot\images\cats\Brown White Cat.jpg
@@ -82,11 +84,13 @@ wwwroot\images\cats\Cat1.jpg
 wwwroot\images\cats\Cat2.jpg
 wwwroot\images\Fish\Ballon Mollies.jpg
 wwwroot\images\Fish\Black Widow Tetra.jpg
-wwwroot\images\Fish\Cardinal Tetra .jpg
+wwwroot\images\Fish\Cardinal Tetra.jpg
 wwwroot\images\Fish\Ember Tetra.jpg
 wwwroot\images\Fish\Guppies.jpg
 wwwroot\images\Fish\Pink Lemon Tetra.jpg
 wwwroot\images\Fish\Platies.jpg
+wwwroot\images\hamster\Hamster 1.webp
+wwwroot\images\hamster\Hamster 2.jpg
 wwwroot\images\Logo.jpeg
 wwwroot\images\pets\Border.jpg
 wwwroot\images\pets\Brown Cat.jpg
@@ -101,11 +105,17 @@ wwwroot\images\pets\White Cat.jpg
 wwwroot\images\shop\CatCage.webp
 wwwroot\images\shop\DogLeash.jpg
 wwwroot\images\shop\filter .jpeg
+wwwroot\images\shop\Gravel Cleaner1.jpeg
+wwwroot\images\shop\Gravel Cleaner2.jpeg
 wwwroot\images\shop\heater.jpeg
 wwwroot\images\shop\net.jpeg
 wwwroot\images\shop\pump.jpeg
 wwwroot\images\shop\pump1.jpeg
+wwwroot\images\shop\pump102.jpeg
+wwwroot\images\shop\pump103.jpeg
+wwwroot\images\shop\pump105.jpeg
 wwwroot\images\shop\StarterKit.jpeg
+wwwroot\images\shop\stones.jpeg
 wwwroot\images\shop\tank.jpeg
 wwwroot\images\shop\toyKelp.jpeg
 wwwroot\images\shop\toys.jpeg

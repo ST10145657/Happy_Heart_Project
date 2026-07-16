@@ -1,4 +1,4 @@
-﻿namespace HappyHearts_Draft.Models.ViewModels.cs
+﻿namespace HappyHearts_Draft.Models.ViewModels
 {
     public class CartItemViewModel
     {

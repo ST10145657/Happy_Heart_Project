@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using HappyHearts_Draft.Interfaces;
+using Microsoft.AspNetCore.Mvc;
 
 namespace HappyHearts_Draft.Controllers
 {
@@ -19,9 +20,11 @@ namespace HappyHearts_Draft.Controllers
             return View();
         }
 
-        public IActionResult Fish()
+        public async Task<IActionResult> Fish()
         {
-            return View();
+            var pets = await _petService.GetPetsBySpeciesAsync(1);
+
+            return View(pets);
         }
 
         public IActionResult Birds()
@@ -29,9 +32,24 @@ namespace HappyHearts_Draft.Controllers
             return View();
         }
 
-        public IActionResult Bunnies()
+        public async Task<IActionResult> Bunnies()
         {
-            return View();
+            var pets = await _petService.GetPetsBySpeciesAsync(6);
+
+            return View(pets);
+        }
+        public async Task<IActionResult> Hamsters()
+        {
+            var pets = await _petService.GetPetsBySpeciesAsync(5);
+
+            return View(pets);
+        }
+
+        private readonly IPetService _petService;
+
+        public SpeciesController(IPetService petService)
+        {
+            _petService = petService;
         }
 
         //public IActionResult Details(string type)

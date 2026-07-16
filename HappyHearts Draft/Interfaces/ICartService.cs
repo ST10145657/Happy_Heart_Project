@@ -1,4 +1,5 @@
 ﻿using HappyHearts_Draft.Models;
+using HappyHearts_Draft.Models.ViewModels;
 
 namespace HappyHearts_Draft.Interfaces
 {
@@ -32,6 +33,8 @@ namespace HappyHearts_Draft.Interfaces
 
         Task<int> GetCartCountAsync(
             string userId);
+
+        Task<List<CartItemViewModel>> GetCartViewAsync(string userId);
 
     }
 }
