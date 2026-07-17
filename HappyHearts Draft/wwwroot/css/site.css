@@ -456,3 +456,20 @@ footer {
         width: 500px;
     }
 }
+
+.card {
+    transition: 0.3s ease;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+    }
+
+.alert-warning {
+    border-radius: 15px;
+}
+
+.btn-lg {
+    padding: 12px 30px;
+    border-radius: 30px;
+}

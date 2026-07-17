@@ -173,6 +173,14 @@
       "PackagePath": "staticwebassets\\images\\pets\\White Cat.jpg"
     },
     {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\3 Foot Tank.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\3 Foot Tank.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\4 Foot Tank.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\4 Foot Tank.jpg"
+    },
+    {
       "Id": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\CatCage.webp",
       "PackagePath": "staticwebassets\\images\\shop\\CatCage.webp"
     },

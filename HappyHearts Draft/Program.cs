@@ -39,6 +39,7 @@ namespace HappyHearts_Draft
             builder.Services.AddScoped<IPetService, PetService>();
             builder.Services.AddScoped<EmailService>();
             builder.Services.AddScoped<NewsletterService>();
+            builder.Services.AddScoped<IProductService, ProductService>();
 
             var app = builder.Build();
 

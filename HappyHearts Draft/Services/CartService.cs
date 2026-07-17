@@ -138,9 +138,16 @@ namespace HappyHearts_Draft.Services
             else
             {
                 var pet = await _supabase.Client
-                    .From<Pet>()
-                    .Where(x => x.PetId == petId)
-                    .Single();
+    .From<Pet>()
+    .Where(x => x.PetId == petId)
+    .Single();
+
+                Console.WriteLine($"Pet object is null: {pet == null}");
+
+                if (pet == null)
+                {
+                    throw new Exception($"Pet with ID {petId} was not found.");
+                }
 
                 var detail = new CartDetails
                 {
@@ -150,12 +157,14 @@ namespace HappyHearts_Draft.Services
                     Price = pet.Price
                 };
 
-                Console.WriteLine($"CartId: {detail.CartId}");
-                Console.WriteLine($"PetId: {detail.PetId}");
-                Console.WriteLine($"Quantity: {detail.Quantity}");
-                Console.WriteLine($"Price: {detail.Price}");
+                Console.WriteLine($"Cart null? {cart == null}");
+                Console.WriteLine($"CartId = {cart?.CartId}");
+                Console.WriteLine($"PetId = {petId}");
+                Console.WriteLine($"Pet null? {pet == null}");
 
-                return false;
+                await _supabase.Client
+       .From<CartDetails>()
+       .Insert(detail);
             }
 
             cart.UpdatedAt = DateTime.UtcNow;
@@ -247,19 +256,53 @@ namespace HappyHearts_Draft.Services
 
             foreach (var item in details)
             {
-                if (item.ProductId != null)
+                // ================= PRODUCTS =================
+                if (item.ProductId.HasValue)
                 {
                     var product = await _supabase.Client
                         .From<Product>()
-                        .Where(x => x.ProductId == item.ProductId)
+                        .Where(x => x.ProductId == item.ProductId.Value)
                         .Single();
+
+                    string imagePath = $"shop/{product.ImageUrl}";
 
                     list.Add(new CartItemViewModel
                     {
                         CartDetailId = item.CartDetailId,
                         ProductId = item.ProductId,
                         Name = product.Name,
-                        ImageUrl = product.ImageUrl,
+                        ImageUrl = imagePath,
+                        Quantity = item.Quantity,
+                        Price = item.Price
+                    });
+                }
+
+                // ================= PETS =================
+                else if (item.PetId.HasValue)
+                {
+                    var pet = await _supabase.Client
+                        .From<Pet>()
+                        .Where(x => x.PetId == item.PetId.Value)
+                        .Single();
+
+                    string imagePath = pet.ImageUrl;
+
+                    // Fish images don't have folders
+                    if (!imagePath.Contains("/"))
+                    {
+                        imagePath = imagePath;
+                    }
+
+                    // Everything else already has its folder
+                    // hamster/Hamster 1.webp
+                    // bunnies/White Bunny.jpg
+
+                    list.Add(new CartItemViewModel
+                    {
+                        CartDetailId = item.CartDetailId,
+                        PetId = item.PetId,
+                        Name = pet.Name,
+                        ImageUrl = imagePath,
                         Quantity = item.Quantity,
                         Price = item.Price
                     });

@@ -161,9 +161,23 @@
                         </li>
 
                         <li class="nav-item ms-3">
-                            <a href="#" class="nav-link">
-                                <i class="fa-solid fa-magnifying-glass"></i>
-                            </a>
+                            <form asp-controller="Search"
+                                  asp-action="Index"
+                                  method="get"
+                                  class="d-flex ms-3">
+
+                                <input class="form-control form-control-sm"
+                                       name="q"
+                                       type="search"
+                                       placeholder="Search..." />
+
+                                <button class="btn btn-success ms-2">
+
+                                    <i class="fa-solid fa-search"></i>
+
+                                </button>
+
+                            </form>
                         </li>
 
 
@@ -174,10 +188,7 @@
 
                                 <i class="fa-solid fa-cart-shopping"></i>
 
-                                @* Later we'll replace the 0 with the number of items *@
-                                <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
-                                    0
-                                </span>
+                                @await Component.InvokeAsync("CartCount")
 
                             </a>
                         </li>

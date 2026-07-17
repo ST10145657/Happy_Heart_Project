@@ -1,0 +1,167 @@
+﻿@model HappyHearts_Draft.Models.ViewModels.SearchViewModel
+
+@{
+    ViewData["Title"] = "Search Results";
+}
+
+<div class="container py-5">
+
+    <h1 class="display-5 fw-bold mb-4">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        Search Results
+    </h1>
+
+    @if (!string.IsNullOrWhiteSpace(Model.SearchText))
+    {
+        <p class="lead">
+            Results for:
+            <strong>"@Model.SearchText"</strong>
+        </p>
+    }
+
+    @if (!Model.Products.Any() && !Model.Pets.Any())
+    {
+        <div class="alert alert-warning text-center">
+
+            <h3>No results found.</h3>
+
+            <p>Try searching for another pet or product.</p>
+
+        </div>
+    }
+    else
+    {
+        <!-- PRODUCTS -->
+        @if (Model.Products.Any())
+        {
+            <h2 class="mt-5 mb-4">
+                🛒 Products
+            </h2>
+
+            <div class="row g-4">
+
+                @foreach (var product in Model.Products)
+                {
+                    <div class="col-lg-4 col-md-6">
+
+                        <div class="card h-100 shadow-sm">
+
+                            <img src="~/images/shop/@product.ImageUrl"
+                                 class="card-img-top"
+                                 style="height:250px;object-fit:cover;" />
+
+                            <div class="card-body">
+
+                                <h4>@product.Name</h4>
+
+                                <h5 class="text-success">
+                                    R @product.Price.ToString("N2")
+                                </h5>
+
+                            </div>
+
+                            <div class="card-footer bg-white border-0">
+
+                                <form asp-controller="Cart"
+                                      asp-action="AddProduct"
+                                      method="post">
+
+                                    <input type="hidden"
+                                           name="productId"
+                                           value="@product.ProductId" />
+
+                                    <input type="hidden"
+                                           name="quantity"
+                                           value="1" />
+
+                                    <button class="btn btn-success w-100">
+
+                                        <i class="fa-solid fa-cart-shopping"></i>
+
+                                        Add To Cart
+
+                                    </button>
+
+                                </form>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                }
+
+            </div>
+        }
+
+        <!-- PETS -->
+        @if (Model.Pets.Any())
+        {
+            <h2 class="mt-5 mb-4">
+                🐾 Pets
+            </h2>
+
+            <div class="row g-4">
+
+                @foreach (var pet in Model.Pets)
+                {
+                    <div class="col-lg-4 col-md-6">
+
+                        <div class="card h-100 shadow-sm">
+
+                            <img src="~/images/@pet.ImageUrl"
+                                 class="card-img-top"
+                                 style="height:250px;object-fit:cover;" />
+
+                            <div class="card-body">
+
+                                <h4>@pet.Name</h4>
+
+                                <p>
+                                    @pet.Breed
+                                </p>
+
+                                <h5 class="text-success">
+
+                                    R @pet.Price.ToString("N2")
+
+                                </h5>
+
+                            </div>
+
+                            <div class="card-footer bg-white border-0">
+
+                                <form asp-controller="Cart"
+                                      asp-action="AddPet"
+                                      method="post">
+
+                                    <input type="hidden"
+                                           name="petId"
+                                           value="@pet.PetId" />
+
+                                    <input type="hidden"
+                                           name="quantity"
+                                           value="1" />
+
+                                    <button class="btn btn-success w-100">
+
+                                        <i class="fa-solid fa-cart-shopping"></i>
+
+                                        Add To Cart
+
+                                    </button>
+
+                                </form>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                }
+
+            </div>
+        }
+    }
+
+</div>

@@ -12,6 +12,15 @@ namespace HappyHearts_Draft.Services
             _supabase = supabase;
         }
 
+        public async Task<List<Pet>> GetAllPetsAsync()
+        {
+            var response = await _supabase.Client
+                .From<Pet>()
+                .Get();
+
+            return response.Models;
+        }
+
         public async Task<List<Pet>> GetPetsBySpeciesAsync(long speciesId)
         {
             var response = await _supabase.Client
@@ -43,6 +52,8 @@ namespace HappyHearts_Draft.Services
 
             return response.Models.FirstOrDefault();
         }
+
+        
     }
 
 

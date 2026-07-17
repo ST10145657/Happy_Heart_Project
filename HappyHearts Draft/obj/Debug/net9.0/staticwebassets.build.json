@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GwzXUuya7hofXPT4kivo06DelORLKhpwgAylL3ffVto=",
+  "Hash": "Z6Xo82b9jEo/BkooNwpKFq2qEd/CH22YWWdFsdJwMrU=",
   "Source": "HappyHearts Draft",
   "BasePath": "_content/HappyHearts Draft",
   "Mode": "Default",
@@ -1109,12 +1109,12 @@
       "OriginalItemSpec": "C:\\Users\\mnqob\\.nuget\\packages\\sweetalert2\\1.0.1\\staticwebassets\\bulmaTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-a1zr4uv0eu.gz",
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-elrb9fuak9.gz",
       "SourceId": "HappyHearts Draft",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/HappyHearts Draft",
-      "RelativePath": "css/site#[.{fingerprint=a1zr4uv0eu}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=elrb9fuak9}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1123,8 +1123,8 @@
       "RelatedAsset": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3hk9nxqjmo",
-      "Integrity": "58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc=",
+      "Fingerprint": "byo1q0gbsn",
+      "Integrity": "bbFOzTfRJlmDKX9OoeIYmR4wErKb75D6o7dJgkgukRM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css"
@@ -2845,8 +2845,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "a1zr4uv0eu",
-      "Integrity": "HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc=",
+      "Fingerprint": "elrb9fuak9",
+      "Integrity": "cgWZS++gydcToccpgJs409L64G2Frna3ew5/DlD+9jQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3711,6 +3711,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\pets\\White Cat.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\3 Foot Tank.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/shop/3 Foot Tank#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gyzra32ze1",
+      "Integrity": "yAT33ez2b7FNZg0UeXcPfPNfPoIJKSBJKLTfM4xYkKY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shop\\3 Foot Tank.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\4 Foot Tank.jpg",
+      "SourceId": "HappyHearts Draft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\",
+      "BasePath": "_content/HappyHearts Draft",
+      "RelativePath": "images/shop/4 Foot Tank#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hguy0tqtpt",
+      "Integrity": "sUJvZA16AMJBl0nfSANDRmAlKWdoqT8qBBzM31BG0YE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shop\\4 Foot Tank.jpg"
     },
     {
       "Identity": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\CatCage.webp",
@@ -10011,13 +10053,13 @@
       ]
     },
     {
-      "Route": "css/site.a1zr4uv0eu.css",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-a1zr4uv0eu.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-elrb9fuak9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000512557663"
+          "Quality": "0.000499750125"
         }
       ],
       "ResponseHeaders": [
@@ -10027,19 +10069,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1950"
+          "Value": "2000"
         },
         {
           "Name": "ETag",
-          "Value": "\"58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc=\""
+          "Value": "\"bbFOzTfRJlmDKX9OoeIYmR4wErKb75D6o7dJgkgukRM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
+          "Value": "Fri, 17 Jul 2026 02:47:36 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10055,26 +10097,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc=\""
+          "Value": "W/\"cgWZS++gydcToccpgJs409L64G2Frna3ew5/DlD+9jQ=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "a1zr4uv0eu"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc="
+          "Value": "sha256-cgWZS++gydcToccpgJs409L64G2Frna3ew5/DlD+9jQ="
         }
       ]
     },
     {
-      "Route": "css/site.a1zr4uv0eu.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10084,7 +10118,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8676"
+          "Value": "8900"
         },
         {
           "Name": "Content-Type",
@@ -10092,11 +10126,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc=\""
+          "Value": "\"cgWZS++gydcToccpgJs409L64G2Frna3ew5/DlD+9jQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
+          "Value": "Fri, 17 Jul 2026 02:47:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cgWZS++gydcToccpgJs409L64G2Frna3ew5/DlD+9jQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-elrb9fuak9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bbFOzTfRJlmDKX9OoeIYmR4wErKb75D6o7dJgkgukRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jul 2026 02:47:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bbFOzTfRJlmDKX9OoeIYmR4wErKb75D6o7dJgkgukRM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.elrb9fuak9.css",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-elrb9fuak9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000499750125"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2000"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bbFOzTfRJlmDKX9OoeIYmR4wErKb75D6o7dJgkgukRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jul 2026 02:47:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cgWZS++gydcToccpgJs409L64G2Frna3ew5/DlD+9jQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "elrb9fuak9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cgWZS++gydcToccpgJs409L64G2Frna3ew5/DlD+9jQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.elrb9fuak9.css",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cgWZS++gydcToccpgJs409L64G2Frna3ew5/DlD+9jQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jul 2026 02:47:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10106,7 +10285,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "a1zr4uv0eu"
+          "Value": "elrb9fuak9"
         },
         {
           "Name": "label",
@@ -10114,13 +10293,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc="
+          "Value": "sha256-cgWZS++gydcToccpgJs409L64G2Frna3ew5/DlD+9jQ="
         }
       ]
     },
     {
-      "Route": "css/site.a1zr4uv0eu.css.gz",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-a1zr4uv0eu.gz",
+      "Route": "css/site.elrb9fuak9.css.gz",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-elrb9fuak9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10129,7 +10308,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1950"
+          "Value": "2000"
         },
         {
           "Name": "Content-Type",
@@ -10137,11 +10316,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc=\""
+          "Value": "\"bbFOzTfRJlmDKX9OoeIYmR4wErKb75D6o7dJgkgukRM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
+          "Value": "Fri, 17 Jul 2026 02:47:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10159,7 +10338,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "a1zr4uv0eu"
+          "Value": "elrb9fuak9"
         },
         {
           "Name": "label",
@@ -10167,144 +10346,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-a1zr4uv0eu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000512557663"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1950"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8676"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d+99KFV5SRIc="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\obj\\Debug\\net9.0\\compressed\\4o4cpfmdmr-a1zr4uv0eu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1950"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jul 2026 12:15:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-58qPTCQO0k1SsQ7jBZDyx2G4PPem+qQPCVvqAc0Eyzc="
+          "Value": "sha256-bbFOzTfRJlmDKX9OoeIYmR4wErKb75D6o7dJgkgukRM="
         }
       ]
     },
@@ -14479,6 +14521,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-l0OjjEkJchyHCyjfuD7fF0nHZveshwLxK1rkDgNemAs="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/3 Foot Tank.gyzra32ze1.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\3 Foot Tank.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAT33ez2b7FNZg0UeXcPfPNfPoIJKSBJKLTfM4xYkKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jul 2026 02:51:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gyzra32ze1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shop/3 Foot Tank.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAT33ez2b7FNZg0UeXcPfPNfPoIJKSBJKLTfM4xYkKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/3 Foot Tank.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\3 Foot Tank.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAT33ez2b7FNZg0UeXcPfPNfPoIJKSBJKLTfM4xYkKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jul 2026 02:51:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAT33ez2b7FNZg0UeXcPfPNfPoIJKSBJKLTfM4xYkKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/4 Foot Tank.hguy0tqtpt.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\4 Foot Tank.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sUJvZA16AMJBl0nfSANDRmAlKWdoqT8qBBzM31BG0YE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jul 2026 02:52:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hguy0tqtpt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shop/4 Foot Tank.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sUJvZA16AMJBl0nfSANDRmAlKWdoqT8qBBzM31BG0YE="
+        }
+      ]
+    },
+    {
+      "Route": "images/shop/4 Foot Tank.jpg",
+      "AssetFile": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\images\\shop\\4 Foot Tank.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sUJvZA16AMJBl0nfSANDRmAlKWdoqT8qBBzM31BG0YE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jul 2026 02:52:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sUJvZA16AMJBl0nfSANDRmAlKWdoqT8qBBzM31BG0YE="
         }
       ]
     },

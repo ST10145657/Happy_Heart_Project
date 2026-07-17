@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/css/site.a1zr4uv0eu.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a1zr4uv0eu"},{"Name":"integrity","Value":"sha256-HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d\u002B99KFV5SRIc="},{"Name":"label","Value":"_content/HappyHearts Draft/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8676"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d\u002B99KFV5SRIc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jul 2026 12:15:36 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d\u002B99KFV5SRIc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8676"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022HpaiqTgWtcxlXdh8RLuiQj7Y9Vx/3l4d\u002B99KFV5SRIc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jul 2026 12:15:36 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cgWZS\u002B\u002BgydcToccpgJs409L64G2Frna3ew5/DlD\u002B9jQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8900"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cgWZS\u002B\u002BgydcToccpgJs409L64G2Frna3ew5/DlD\u002B9jQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jul 2026 02:47:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/css/site.elrb9fuak9.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"elrb9fuak9"},{"Name":"integrity","Value":"sha256-cgWZS\u002B\u002BgydcToccpgJs409L64G2Frna3ew5/DlD\u002B9jQ="},{"Name":"label","Value":"_content/HappyHearts Draft/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8900"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cgWZS\u002B\u002BgydcToccpgJs409L64G2Frna3ew5/DlD\u002B9jQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jul 2026 02:47:36 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -515,6 +515,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xe1pd7on6j"},{"Name":"integrity","Value":"sha256-l0OjjEkJchyHCyjfuD7fF0nHZveshwLxK1rkDgNemAs="},{"Name":"label","Value":"_content/HappyHearts Draft/images/pets/White Cat.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"50266"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022l0OjjEkJchyHCyjfuD7fF0nHZveshwLxK1rkDgNemAs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jul 2026 10:23:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/images/shop/3 Foot Tank.gyzra32ze1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\shop\3 Foot Tank.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gyzra32ze1"},{"Name":"integrity","Value":"sha256-yAT33ez2b7FNZg0UeXcPfPNfPoIJKSBJKLTfM4xYkKY="},{"Name":"label","Value":"_content/HappyHearts Draft/images/shop/3 Foot Tank.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34135"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yAT33ez2b7FNZg0UeXcPfPNfPoIJKSBJKLTfM4xYkKY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jul 2026 02:51:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/images/shop/3 Foot Tank.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\shop\3 Foot Tank.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yAT33ez2b7FNZg0UeXcPfPNfPoIJKSBJKLTfM4xYkKY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"34135"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yAT33ez2b7FNZg0UeXcPfPNfPoIJKSBJKLTfM4xYkKY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jul 2026 02:51:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/images/shop/4 Foot Tank.hguy0tqtpt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\shop\4 Foot Tank.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hguy0tqtpt"},{"Name":"integrity","Value":"sha256-sUJvZA16AMJBl0nfSANDRmAlKWdoqT8qBBzM31BG0YE="},{"Name":"label","Value":"_content/HappyHearts Draft/images/shop/4 Foot Tank.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"56049"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sUJvZA16AMJBl0nfSANDRmAlKWdoqT8qBBzM31BG0YE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jul 2026 02:52:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/images/shop/4 Foot Tank.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\shop\4 Foot Tank.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sUJvZA16AMJBl0nfSANDRmAlKWdoqT8qBBzM31BG0YE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"56049"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022sUJvZA16AMJBl0nfSANDRmAlKWdoqT8qBBzM31BG0YE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Jul 2026 02:52:13 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HappyHearts Draft/images/shop/CatCage.uqaci1zrml.webp">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\shop\CatCage.webp'))</AssetFile>

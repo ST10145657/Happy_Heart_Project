@@ -1,0 +1,118 @@
+﻿@{
+    ViewData["Title"] = "Checkout";
+}
+
+<div class="container py-5">
+
+    <div class="text-center mb-5">
+
+        <i class="fa-solid fa-credit-card fa-5x text-success mb-4"></i>
+
+        <h1 class="display-4 fw-bold">
+            Checkout
+        </h1>
+
+        <p class="lead text-muted">
+            Thank you for choosing Happy Hearts.
+        </p>
+
+    </div>
+
+    <div class="card shadow-lg border-0 rounded-4">
+
+        <div class="card-body p-5">
+
+            <div class="alert alert-warning text-center">
+
+                <h3 class="fw-bold">
+
+                    🚧 Checkout Currently Under Construction
+
+                </h3>
+
+            </div>
+
+            <p class="fs-5 mt-4">
+
+                We are currently completing our secure online payment
+                integration.
+
+            </p>
+
+            <p class="fs-5">
+
+                Our payment gateway is currently awaiting final setup and
+                banking approval before online payments can be accepted.
+
+            </p>
+
+            <p class="fs-5">
+
+                Until then, you are welcome to visit our store or contact us
+                directly and we'll gladly assist you with your purchase.
+
+            </p>
+
+            <hr class="my-4" />
+
+            <div class="row">
+
+                <div class="col-md-4 text-center">
+
+                    <i class="fa-solid fa-phone fa-2x text-success mb-3"></i>
+
+                    <h5>Phone</h5>
+
+                    <p>(Insert Number)</p>
+
+                </div>
+
+                <div class="col-md-4 text-center">
+
+                    <i class="fa-solid fa-envelope fa-2x text-success mb-3"></i>
+
+                    <h5>Email</h5>
+
+                    <p>(Insert Email)</p>
+
+                </div>
+
+                <div class="col-md-4 text-center">
+
+                    <i class="fa-solid fa-location-dot fa-2x text-success mb-3"></i>
+
+                    <h5>Location</h5>
+
+                    <p>(Insert Address)</p>
+
+                </div>
+
+            </div>
+
+            <div class="text-center mt-5">
+
+                <a asp-controller="Cart"
+                   asp-action="Index"
+                   class="btn btn-outline-secondary btn-lg me-3">
+
+                    <i class="fa-solid fa-arrow-left"></i>
+
+                    Return to Cart
+
+                </a>
+
+                <a asp-controller="Shop"
+                   asp-action="Index"
+                   class="btn btn-success btn-lg">
+
+                    Continue Shopping
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

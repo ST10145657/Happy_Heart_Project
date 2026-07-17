@@ -102,6 +102,8 @@ wwwroot\images\pets\Ginger Cat.jpg
 wwwroot\images\pets\Golden Retriever.jpg
 wwwroot\images\pets\Labradoro.jpg
 wwwroot\images\pets\White Cat.jpg
+wwwroot\images\shop\3 Foot Tank.jpg
+wwwroot\images\shop\4 Foot Tank.jpg
 wwwroot\images\shop\CatCage.webp
 wwwroot\images\shop\DogLeash.jpg
 wwwroot\images\shop\filter .jpeg

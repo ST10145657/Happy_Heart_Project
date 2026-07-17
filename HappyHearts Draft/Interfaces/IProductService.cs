@@ -6,6 +6,7 @@ namespace HappyHearts_Draft.Interfaces
     {
         Task<List<Product>> GetProductsAsync();
 
+
         Task<Product?> GetProductAsync(long productId);
 
         Task<Product> AddProductAsync(Product product);

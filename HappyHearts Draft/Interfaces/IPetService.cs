@@ -6,8 +6,12 @@ namespace HappyHearts_Draft.Interfaces
     {
         Task<List<Pet>> GetPetsBySpeciesAsync(long speciesId);
 
+        Task<List<Pet>> GetAllPetsAsync();
+
         Task<List<Pet>> GetFeaturedPetsAsync();
 
         Task<Pet?> GetPetAsync(long petId);
+
+       
     }
 }

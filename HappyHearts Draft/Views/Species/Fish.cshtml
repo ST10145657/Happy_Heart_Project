@@ -39,11 +39,11 @@
 
         @foreach (var fish in Model)
         {
-            <div class="col-lg-4 col-md-6" data-aos="fade-up">
+            <div class="col-lg-4 col-md-6 searchable-fish" data-aos="fade-up">
 
                 <div class="card h-100">
 
-                    <img src="~/images/fish/@fish.ImageUrl"
+                    <img src="~/images/@fish.ImageUrl"
                          class="card-img-top"
                          alt="@fish.Name" />
 
@@ -83,7 +83,13 @@
 
                         </p>
 
-                        <p><strong> Price :</strong> @fish.Price</p>
+
+                            <p>
+                                <strong>Price:</strong>
+                                <span class="text-success fw-bold">
+                                   R @fish.Price.ToString("N2")
+                                </span>
+                            </p>
 
                         <form asp-controller="Cart"
                               asp-action="AddPet"
@@ -117,29 +123,18 @@
 
 <script>
 
-    document.querySelectorAll(".plus-btn").forEach(button=>{
+    document.getElementById("FishSearch").addEventListener("keyup", function () {
 
-    button.addEventListener("click",function(){
+        let value = this.value.toLowerCase();
 
-    let input=this.parentElement.querySelector(".quantity-input");
+        document.querySelectorAll(".searchable-fish").forEach(function (fish) {
 
-    input.value=parseInt(input.value)+1;
+            let text = fish.innerText.toLowerCase();
 
-    });
+            fish.style.display =
+                text.includes(value) ? "" : "none";
 
-    });
-
-    document.querySelectorAll(".minus-btn").forEach(button=>{
-
-    button.addEventListener("click",function(){
-
-    let input=this.parentElement.querySelector(".quantity-input");
-
-    if(parseInt(input.value)>1)
-
-    input.value=parseInt(input.value)-1;
-
-    });
+        });
 
     });
 

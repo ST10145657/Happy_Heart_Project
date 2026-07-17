@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\species\\hamsters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\species\\hamsters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\species\\fish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\species\\fish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\species\\hamsters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\species\\hamsters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\interfaces\\ipetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\interfaces\\ipetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\controllers\\speciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,24 +27,88 @@
       "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\species\\bunnies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\species\\fish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\species\\fish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\species\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\species\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\viewmodels.cs\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\viewmodels.cs\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\viewcomponents\\cartcountviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\viewcomponents\\cartcountviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\viewmodels.cs\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\viewmodels.cs\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\services\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\services\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,14 +131,6 @@
       "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\controllers\\supabasetestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\controllers\\supabasetestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -101,18 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\viewmodels.cs\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\viewmodels.cs\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\services\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\services\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -149,10 +173,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|solutionrelative:happyhearts draft\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44B501A-017B-45F6-BB44-060AC028266E}|HappyHearts Draft\\HappyHearts Draft.csproj|c:\\users\\mnqob\\onedrive\\desktop\\happyhearts draft\\happyhearts draft\\models\\supabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -178,60 +198,221 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\ProductService.cs",
-              "RelativeToolTip": "HappyHearts Draft\\Services\\ProductService.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAqwBwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T17:03:18.09Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Fish.cshtml",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Fish.cshtml",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Species\\Fish.cshtml",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Fish.cshtml",
-              "RelativeToolTip": "HappyHearts Draft\\Views\\Species\\Fish.cshtml",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAmwH4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-09T07:23:37.241Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Hamsters.cshtml",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Hamsters.cshtml",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Species\\Hamsters.cshtml",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Hamsters.cshtml",
-              "RelativeToolTip": "HappyHearts Draft\\Views\\Species\\Hamsters.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "HappyHearts Draft\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-15T12:41:26.396Z",
+              "WhenOpened": "2026-07-13T15:02:17.915Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\CartService.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Services\\CartService.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAowDQBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T22:51:44.176Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetService.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\PetService.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\PetService.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\PetService.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Services\\PetService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T23:43:49.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T01:30:15.998Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hamsters.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Hamsters.cshtml",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Species\\Hamsters.cshtml",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Hamsters.cshtml",
+              "RelativeToolTip": "HappyHearts Draft\\Views\\Species\\Hamsters.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T06:16:07.454Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fish.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Fish.cshtml",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Species\\Fish.cshtml",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Fish.cshtml",
+              "RelativeToolTip": "HappyHearts Draft\\Views\\Species\\Fish.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T14:41:29.123Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Bunnies.cshtml",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Bunnies.cshtml",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Species\\Bunnies.cshtml",
               "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Bunnies.cshtml",
               "RelativeToolTip": "HappyHearts Draft\\Views\\Species\\Bunnies.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-15T12:43:31.985Z",
-              "IsPinned": true
+              "WhenOpened": "2026-07-17T15:19:58.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpeciesController.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\SpeciesController.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Controllers\\SpeciesController.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\SpeciesController.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Controllers\\SpeciesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAtwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T15:16:19.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "HappyHearts Draft\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T15:00:30.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\ProductService.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:03:18.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Index.cshtml",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Species\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Index.cshtml",
+              "RelativeToolTip": "HappyHearts Draft\\Views\\Species\\Index.cshtml",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAowI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T12:02:22.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T14:08:55.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Search\\Index.cshtml",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Search\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Search\\Index.cshtml",
+              "RelativeToolTip": "HappyHearts Draft\\Views\\Search\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T14:16:27.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "HappyHearts Draft\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T14:12:22.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\ViewModels.cs\\SearchViewModel.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\ViewModels.cs\\SearchViewModel.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\ViewModels.cs\\SearchViewModel.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Models\\ViewModels.cs\\SearchViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T14:10:17.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HappyHearts Draft\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAswKgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T09:13:57.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -243,80 +424,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PetService.cs",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\PetService.cs",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\PetService.cs",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\PetService.cs",
-              "RelativeToolTip": "HappyHearts Draft\\Services\\PetService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\Product.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Models\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T23:43:49.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\CartService.cs",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\CartService.cs",
-              "RelativeToolTip": "HappyHearts Draft\\Services\\CartService.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAewJ4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T22:51:44.176Z",
+              "WhenOpened": "2026-07-14T08:05:37.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\CartController.cs",
-              "RelativeToolTip": "HappyHearts Draft\\Controllers\\CartController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAiwDoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T16:26:27.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Pet.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\Pet.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\Pet.cs",
               "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\Pet.cs",
               "RelativeToolTip": "HappyHearts Draft\\Models\\Pet.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwDYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T00:09:51.136Z"
+              "WhenOpened": "2026-07-16T00:09:51.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IPetService.cs",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Interfaces\\IPetService.cs",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Interfaces\\IPetService.cs",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Interfaces\\IPetService.cs",
-              "RelativeToolTip": "HappyHearts Draft\\Interfaces\\IPetService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\Staff.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T13:38:53.914Z"
+              "WhenOpened": "2026-07-10T09:09:38.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SpeciesController.cs",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\SpeciesController.cs",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Controllers\\SpeciesController.cs",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\SpeciesController.cs",
-              "RelativeToolTip": "HappyHearts Draft\\Controllers\\SpeciesController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAA/wDAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "CartCountViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\ViewComponents\\CartCountViewComponent.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\ViewComponents\\CartCountViewComponent.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\ViewComponents\\CartCountViewComponent.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Views\\ViewComponents\\CartCountViewComponent.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T10:15:08.284Z"
+              "WhenOpened": "2026-07-17T03:22:21.745Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "HappyHearts Draft\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwHEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T02:46:22.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\ViewModels.cs\\CartItemViewModel.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\ViewModels.cs\\CartItemViewModel.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\ViewModels.cs\\CartItemViewModel.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Models\\ViewModels.cs\\CartItemViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T00:44:02.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\CartController.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Controllers\\CartController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T16:26:27.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\appsettings.json",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\appsettings.json",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\appsettings.json",
+              "RelativeToolTip": "HappyHearts Draft\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-17T01:04:54.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SupabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\SupabaseService.cs",
+              "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\SupabaseService.cs",
+              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\SupabaseService.cs",
+              "RelativeToolTip": "HappyHearts Draft\\Services\\SupabaseService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T04:26:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\Cart.cs",
@@ -328,31 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Index.cshtml",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Species\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Index.cshtml",
-              "RelativeToolTip": "HappyHearts Draft\\Views\\Species\\Index.cshtml",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-15T12:02:22.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "HappyHearts Draft\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAADIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-07-06T16:56:21.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Controllers\\AdminController.cs",
@@ -364,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Home\\Index.cshtml",
@@ -376,19 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HappyHearts Draft\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAAAIwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-15T09:13:57.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "Products.cshtml",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Admin\\Products.cshtml",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Admin\\Products.cshtml",
@@ -400,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Admin\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Admin\\Dashboard.cshtml",
@@ -412,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "EditProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Admin\\EditProduct.cshtml",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Admin\\EditProduct.cshtml",
@@ -424,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "AddProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Admin\\AddProduct.cshtml",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Admin\\AddProduct.cshtml",
@@ -436,31 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "HappyHearts Draft\\Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T01:30:15.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CartItemViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\ViewModels.cs\\CartItemViewModel.cs",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\ViewModels.cs\\CartItemViewModel.cs",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\ViewModels.cs\\CartItemViewModel.cs",
-              "RelativeToolTip": "HappyHearts Draft\\Models\\ViewModels.cs\\CartItemViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T00:44:02.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "ICartService.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Interfaces\\ICartService.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Interfaces\\ICartService.cs",
@@ -472,19 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "HappyHearts Draft\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAQwHMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-14T22:24:20.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "SupabaseTestController.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\SupabaseTestController.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Controllers\\SupabaseTestController.cs",
@@ -496,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Controllers\\AccountController.cs",
@@ -508,31 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "HappyHearts Draft\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAgwH8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-13T15:02:17.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\Product.cs",
-              "RelativeToolTip": "HappyHearts Draft\\Models\\Product.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T08:05:37.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\AuthService.cs",
@@ -544,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Account\\Login.cshtml",
@@ -556,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\EmailService.cs",
@@ -568,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\User.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\User.cs",
@@ -580,19 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "SupabaseService.cs",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\SupabaseService.cs",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\SupabaseService.cs",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\SupabaseService.cs",
-              "RelativeToolTip": "HappyHearts Draft\\Services\\SupabaseService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T04:26:50.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "_AuthLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Shared\\_AuthLayout.cshtml",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Shared\\_AuthLayout.cshtml",
@@ -604,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Account\\Register.cshtml",
@@ -616,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\ViewModels.cs\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\ViewModels.cs\\RegisterViewModel.cs",
@@ -628,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "ForgotPassword.cshtml",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Account\\ForgotPassword.cshtml",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Account\\ForgotPassword.cshtml",
@@ -640,19 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\Staff.cs",
-              "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\Staff.cs",
-              "ToolTip": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\Staff.cs",
-              "RelativeToolTip": "HappyHearts Draft\\Models\\Staff.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T09:09:38.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "SupabaseSettings.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Models\\SupabaseSettings.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Models\\SupabaseSettings.cs",
@@ -664,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "NewsletterService.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\NewsletterService.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\NewsletterService.cs",
@@ -676,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Services\\OrderService.cs",
@@ -688,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 46,
               "Title": "Dogs.cshtml",
               "DocumentMoniker": "C:\\Users\\mnqob\\OneDrive\\Desktop\\HappyHearts Draft\\HappyHearts Draft\\Views\\Species\\Dogs.cshtml",
               "RelativeDocumentMoniker": "HappyHearts Draft\\Views\\Species\\Dogs.cshtml",

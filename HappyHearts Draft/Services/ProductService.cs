@@ -3,7 +3,7 @@ using HappyHearts_Draft.Models;
 
 namespace HappyHearts_Draft.Services
 {
-    public class ProductService
+    public class ProductService : IProductService
     {
         private readonly ISupabaseService _supabase;
 

@@ -1,7 +1,7 @@
 ﻿@model List<HappyHearts_Draft.Models.Pet>
 
 @{
-    ViewData["Title"] = "Fish";
+    ViewData["Title"] = "Hamsters";
 }
 
 <div class="fish-page">
@@ -11,79 +11,71 @@
         <div class="hero-content">
 
             <h1 class="display-3 fw-bold text-white">
-                Fish Species
+                Hamsters
             </h1>
 
             <p class="lead text-white">
-                Explore freshwater and saltwater fish and learn how to care for them.
+                Small companions with huge personalities.
             </p>
 
         </div>
 
     </div>
 
-    <!-- Search -->
     <div class="row justify-content-center mb-5">
 
         <div class="col-md-6">
 
             <input type="text"
-                   id="FishSearch"
+                   id="HamsterSearch"
                    class="form-control form-control-lg"
-                   placeholder="🔍 Search types of Fish..." />
+                   placeholder="🔍 Search Hamsters..." />
 
         </div>
 
     </div>
+
     <div class="row g-4">
 
-        @foreach (var fish in Model)
+        @foreach (var hamster in Model)
         {
-            <div class="col-lg-4 col-md-6" data-aos="fade-up">
+            <div class="col-lg-4 col-md-6 pet-card" data-aos="fade-up">
 
                 <div class="card h-100">
 
-                    <img src="~/images/fish/@fish.ImageUrl"
+                    <img src="~/images/@hamster.ImageUrl"
                          class="card-img-top"
-                         alt="@fish.Name" />
+                         alt="@hamster.Name" />
 
                     <div class="card-body">
 
-                        <h4 class="fw-bold">
-                            @fish.Name
-                        </h4>
+                        <h4 class="fw-bold">@hamster.Name</h4>
 
                         <hr />
 
-                        <p><strong> Type:</strong> @fish.Type</p>
+                        <p><strong>Breed:</strong> @hamster.Breed</p>
 
+                        <p><strong>Gender:</strong> @hamster.Gender</p>
 
+                        <p><strong>Age:</strong> @hamster.Age Months</p>
 
+                        <p><strong>Colour:</strong> @hamster.Colour</p>
 
+                        <p><strong>Temperament:</strong> @hamster.Temperament</p>
 
-                        <p><strong> Temperature:</strong> @fish.Temperature</p>
-
-                        <p><strong> Lifespan:</strong> @fish.Lifespan</p>
+                        <p><strong>Size:</strong> @hamster.Size</p>
 
                         <p>
-                            <strong> Difficulty:</strong>
 
-                            @if (fish.Difficulty == "Beginner")
-                            {
-                                <span class="badge bg-success">Beginner</span>
-                            }
-                            else if (fish.Difficulty == "Intermediate")
-                            {
-                                <span class="badge bg-warning text-dark">Intermediate</span>
-                            }
-                            else
-                            {
-                                <span class="badge bg-danger">Advanced</span>
-                            }
+                            <strong>Price:</strong>
+
+                            <span class="badge bg-success fs-6">
+
+                                R @hamster.Price.ToString("N2")
+
+                            </span>
 
                         </p>
-
-                        <p><strong> Price :</strong> @fish.Price</p>
 
                         <form asp-controller="Cart"
                               asp-action="AddPet"
@@ -91,15 +83,18 @@
 
                             <input type="hidden"
                                    name="petId"
-                                   value="@fish.PetId" />
+                                   value="@hamster.PetId" />
 
                             <input type="hidden"
                                    name="quantity"
                                    value="1" />
 
                             <button class="btn btn-success w-100">
+
                                 <i class="fa-solid fa-cart-shopping"></i>
+
                                 Add To Cart
+
                             </button>
 
                         </form>
@@ -117,29 +112,18 @@
 
 <script>
 
-    document.querySelectorAll(".plus-btn").forEach(button=>{
+    document.getElementById("HamsterSearch").addEventListener("keyup", function(){
 
-    button.addEventListener("click",function(){
+        let value=this.value.toLowerCase();
 
-    let input=this.parentElement.querySelector(".quantity-input");
+        document.querySelectorAll(".pet-card").forEach(card=>{
 
-    input.value=parseInt(input.value)+1;
+            card.style.display=
+            card.innerText.toLowerCase().includes(value)
+            ? ""
+            : "none";
 
-    });
-
-    });
-
-    document.querySelectorAll(".minus-btn").forEach(button=>{
-
-    button.addEventListener("click",function(){
-
-    let input=this.parentElement.querySelector(".quantity-input");
-
-    if(parseInt(input.value)>1)
-
-    input.value=parseInt(input.value)-1;
-
-    });
+        });
 
     });
 
