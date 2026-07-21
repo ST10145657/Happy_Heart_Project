@@ -1,20 +1,23 @@
 🐾 Happy Hearts Pet Store
 
 A brief description of the project.
+# 🛠️ Technologies Used
 
-🛠️ Technologies Used
-ASP.NET Core MVC (.NET)
-C#
-Razor Views
-HTML5
-CSS3
-Bootstrap 5
-JavaScript
-Supabase Authentication
-Supabase PostgreSQL
-Git
-GitHub
-Visual Studio 2022
+| Technology | Purpose |
+|------------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="22"/> **ASP.NET Core MVC (.NET)** | Backend Framework |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="22"/> **C#** | Programming Language |
+| 📄 **Razor Views** | Dynamic UI Rendering |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/> **HTML5** | Markup Language |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22"/> **CSS3** | Styling |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="22"/> **Bootstrap 5** | Responsive Design |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> **JavaScript** | Client-side Functionality |
+| 🟢 **Supabase Authentication** | User Authentication |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22"/> **Supabase PostgreSQL** | Cloud Database |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22"/> **Git** | Version Control |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> **GitHub** | Source Code Repository |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="22"/> **Visual Studio 2022** | IDE |
+
 
 🏠 Home Page
 <img width="928" height="449" alt="Home Page" src="https://github.com/user-attachments/assets/7a4c97cd-8f48-48af-948f-f9c7d1f37eb2" />
